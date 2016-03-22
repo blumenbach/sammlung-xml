@@ -1,0 +1,38 @@
+﻿<sv:node xmlns:bol="http://purl.org/vocab/blumenbach#" xmlns:premis="http://www.loc.gov/premis/rdf/v1#" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:ns004="http://www.w3.org/ns/auth/acl#" xmlns:ns003="http://id.loc.gov/vocabulary/relators/" xmlns:ns002="http://purl.org/dc/terms/" xmlns:ns001="info:fedora/fedora-system:def/model#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mode="http://www.modeshape.org/1.0" xmlns:ns007="http://pcdm.org/models#" xmlns:ns006="http://scholarsphere.psu.edu/ns#" xmlns:ns005="info:fedora/fedora-system:def/relations-external#" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:fedoraconfig="http://fedora.info/definitions/v4/config#" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:image="http://www.modeshape.org/images/1.0" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:test="info:fedora/test/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="http://fedora.info/definitions/v4/repository#" xmlns:ebucore="http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#" xmlns:ldp="http://www.w3.org/ns/ldp#" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dc="http://purl.org/dc/elements/1.1/" sv:name="kd_46">
+    <sv:property sv:name="bol:kerndaten_id" sv:type="String">
+        <sv:value>46</sv:value>
+    </sv:property>
+    <sv:property sv:name="bol:uid" sv:type="String">
+        <sv:value>27</sv:value>
+    </sv:property>
+    <sv:property sv:name="bol:id" sv:type="String">
+        <sv:value>1</sv:value>
+    </sv:property>
+    <sv:property sv:name="bol:tstamp" sv:type="String">
+        <sv:value>1441626008</sv:value>
+    </sv:property>
+    <sv:property sv:name="bol:crdate" sv:type="String">
+        <sv:value>1441626008</sv:value>
+    </sv:property>
+    <sv:property sv:name="bol:cruser_id" sv:type="String">
+        <sv:value>5</sv:value>
+    </sv:property>
+    <sv:property sv:name="bol:a0_Zusammenfassende_Bezeichnung" sv:type="String">
+        <sv:value>Mensch (Italiener) [Schädel]</sv:value>
+    </sv:property>
+    <sv:property sv:name="bol:a1_Zuordnung" sv:type="String">
+        <sv:value>Anatomie, Anthropologie</sv:value>
+    </sv:property>
+    <sv:property sv:name="bol:a2_Sammlungs-Akronym" sv:type="String">
+        <sv:value>AIG</sv:value>
+    </sv:property>
+    <sv:property sv:name="bol:a3_Heutige_Inventar-Nummer" sv:type="String">
+        <sv:value>384</sv:value>
+    </sv:property>
+    <sv:property sv:name="bol:a5_Sekundär-Nummer" sv:type="String">
+        <sv:value>4; 35; 132; 304; 114</sv:value>
+    </sv:property>
+    <sv:property sv:name="bol:a6_Serie" sv:type="String">
+        <sv:value>1</sv:value>
+    </sv:property>    
+</sv:node>

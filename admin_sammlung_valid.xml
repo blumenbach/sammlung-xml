@@ -1,0 +1,3374 @@
+﻿<root>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="eaaa2c8a-538c-45cc-9189-fb8e8618bf8d">
+      <pcdm:AdministrativeSet id="part0">
+         <kerndaten_id>1</kerndaten_id>
+         <uid>20</uid>
+         <pid>1</pid>
+         <tstamp>1386844920</tstamp>
+         <crdate>1386844920</crdate>
+         <cruser_id>1</cruser_id>
+         <a0_Zusammenfassende_Bezeichnung>Dazit-Porphyr “Porfido rosso antico“</a0_Zusammenfassende_Bezeichnung>
+         <a1_Zuordnung>Geologie</a1_Zuordnung>
+         <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+         <a3_Heutige_Inventar-Nummer>0.056</a3_Heutige_Inventar-Nummer>
+         <a5_Sekundär-Nummer>16561</a5_Sekundär-Nummer>
+         <a6_Serie>1</a6_Serie>
+         <a7a_Großgruppe_Fachtermini>Magmatite: Vulkanite: Porphyre</a7a_Großgruppe_Fachtermini>
+         <a7b_Großgruppe_Allgemein>Erstarrungsgesteine: Ergussgesteine: Porphyre</a7b_Großgruppe_Allgemein>
+         <a8_Bezeichnung_Original>Porfido rosso antico</a8_Bezeichnung_Original>
+         <a9a_Bezeichnung_Neue_Fachtermini>„Porfido rosso antico“, Dazit-Porphyr</a9a_Bezeichnung_Neue_Fachtermini>
+         <a9c_Synonyma>Purpurstein, lapis purpureus porphyrites, Porfido rosso egiziano</a9c_Synonyma>
+         <a12a_Datierung_von>Präkambrium</a12a_Datierung_von>
+         <a12aa_Datierung_bis>Präkambrium</a12aa_Datierung_bis>
+         <a12b_Bemerkungen_zur_Datierung>es liegt keine konkrete Datierung am Stück vor</a12b_Bemerkungen_zur_Datierung>
+         <a13a_Fundort>Ägypten, vermutlich aus einem römischen Steinbruch (Mons Porphyrites) in der Nähe von Hurghada, Djebel Duchan (= „rauchender Berg“)</a13a_Fundort>
+         <a13d>1095262</a13d>
+         <a14a_Sammler>Niebuhr, Carsten (1733-1815)</a14a_Sammler>
+         <a14aa>cnp00399159</a14aa>
+         <a14b>1761-01-01</a14b>
+         <a14ba>1763-12-31</a14ba>
+         <a15a_Erhalten_von>Niebuhr, Carsten (1733-1815)</a15a_Erhalten_von>
+         <a15aa>cnp00399159</a15aa>
+         <a15b_Datum_Sammlungseingang_von>1761-01-01</a15b_Datum_Sammlungseingang_von>
+         <a15ba_Datum_Sammlungseingang_bis>1791-12-31</a15ba_Datum_Sammlungseingang_bis>
+         <a16a_Erwerbsform>vermutlich Geschenk</a16a_Erwerbsform>
+         <a17_Bemerkungen_Erwerbsform>Carsten Niebuhr (1733 – 1815), deutscher Mathematiker und Forschungsreisender. 1761 wurde er von König Frederik V. von Dänemark als Kartograf in die sechsköpfige dänische Arabien-Expedition berufen, die im gleichen Jahr als „Arabische Reise“ mit der Schiffspassage von Kopenhagen nach Alexandria (Ägypten) begann. Diese zweite deutsche wissenschaftliche Expedition zur Erforschung des Orients und Palästinas startete von Göttingen aus. Die Resultate der Reise wurden von Carsten Niebuhr in den Jahren 1772-1778 veröffentlicht.</a17_Bemerkungen_Erwerbsform>
+         <a18>00025: 562, 620; 00027: 609</a18>
+         <a21>nein</a21>
+         <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+         <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+         <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+         <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </a28_Rechtehinweise>
+         <c1_Anzahl_Original-Etiketten>1</c1_Anzahl_Original-Etiketten>
+         <c2_Anzahl_Sekundär-Etiketten>0</c2_Anzahl_Sekundär-Etiketten>
+         <f2a_Bearbeiter>M. Reich, A. Böhme, A. Gehler</f2a_Bearbeiter>
+         <f2b_Datum_Erstbearbeitung>2010-05-04</f2b_Datum_Erstbearbeitung>
+         <f3a>A. Gehler</f3a>
+         <f3b>2013-12-12</f3b>         
+            <pcdm:Object id="0054bed2-f50f-4eaf-8b8b-fe14c7df80b6">
+               <pcdm:File id="322">fuploadtxbolonlineKerndaten10GZGHST00562D05131194545986.JPG</pcdm:File>
+            </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>1</id>
+         <kerndaten_id>1</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+            <pcdm:Object id="90475b5d-68b2-42fe-9c18-feab19079ceb">
+               <pcdm:File id="350">fuploadtxbolonlinePartII1100GZGHST00562D06131194519873.16.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="351">fuploadtxbolonlinePartII1110GZGHST00562D07131194519873.39.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="352">fuploadtxbolonlinePartII1100GZGHST00562D04131194548535.62.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>1</id>
+         <kerndaten_id>1</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b1_Objektes_Art>Trockenpräparat in Form einer 8-eckigen geschliffene Platte </b1_Objektes_Art>
+         <b2>dunkelroter Porphyr</b2>
+         <b5>seit der Antike wird (roter) Porphyr u. a. als Naturwerkstein für Skulpturen, Bodenplatten etc. sehr geschätzt und verwendet</b5>
+         <b6>gesägt, geschliffen, poliert</b6>
+         <b7a>L=7,75; B=6,30; H=0,15</b7a>
+         <b8>26,1</b8>
+         <b9a>nicht vorhanden</b9a>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b11a>nein</b11a>
+         <b11b>unbekannt</b11b>
+         <b12>0.056</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="73d928f6-8afb-486d-b0db-6da2c3822627">
+               <pcdm:File id="66">fuploadtxbolonlinePartIII1100GZGHST00562D03131194526146.69.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>1</id>
+         <kerndaten_id>1</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Porfido rosso antico aus Aegypten[sekundär "16561." hinzugefügt]</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c4>L=5,5; B=7,2</c4>
+         <c5>Handschrift von Blumenbach (außer später hinzugefügte Sekundärnummer) </c5>
+         <c6a>sehr gut</c6a>
+         <c7a>nein</c7a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>1</id>
+         <kerndaten_id>1</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Geologie</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="b779c7fc-ab09-428c-abaf-5726557feeff">
+      <pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>2</kerndaten_id>
+      <uid>27</uid>
+      <pid>1</pid>
+      <tstamp>1432134872</tstamp>
+      <crdate>1432134872</crdate>
+      <cruser_id>5</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Glimmer</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Mineralogie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>1.554</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>10; 8.6.50.5</a5_Sekundär-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Glimmer</a7a_Großgruppe_Fachtermini>
+      <a8_Bezeichnung_Original>Glimmer</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>Glimmer</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9d_mindat_URI>http://www.mindat.org/min-6728.html</a9d_mindat_URI>
+      <a13a_Fundort>Dubí (OT Cínovec), Severočeský - Česká Republika - Europe - World</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>50° 44' 00" N, 013° 46' 00" E</a13b_Fundort-Koordinaten>
+      <a13c_Fundort_Getty-ID>tgn:1027122</a13c_Fundort_Getty-ID>
+      <a16a_Erwerbsform>unbekannt</a16a_Erwerbsform>
+      <a21>nein</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG</a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>1</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>3</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>N. Schäfer</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2015-05-12</f2b_Datum_Erstbearbeitung>
+      <f3a>N. Schäfer</f3a>
+      <f3b>2015-05-20</f3b>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>2</id>
+         <kerndaten_id>2</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+         <id>2</id>
+         <kerndaten_id>2</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b10a_Objekte_Zustand>gut</b10a_Objekte_Zustand>
+         <b11a>nein</b11a>
+         <b12>1.554</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         <id>4</id>
+         <kerndaten_id>2</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>In 6seitige Tafeln crystallisirter Glimmer. v. Zinnwalde in Böhmen Blumenb. S.["Blumenb. S." sekundär hinzugefügt]</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c6a>gut</c6a>
+         <c7a>nein</c7a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>2</id>
+         <kerndaten_id>2</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Mineralogie</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="08bc4250-4ab6-4974-95b1-7fa233116ebf">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>3</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1407960924</tstamp>
+      <crdate>1407960924</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Kap-Stachelschwein (&lt;i&gt;Hystrix africaeaustralis&lt;/i&gt;) [Rasselbecher]</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Zoologie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.343</a3_Heutige_Inventar-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Mammalia: Rodentia: Hystricidae</a7a_Großgruppe_Fachtermini>
+      <a7b_Großgruppe_Allgemein>Säugetiere: Nagetiere: Stachelschweine</a7b_Großgruppe_Allgemein>
+      <a8_Bezeichnung_Original>Hystrix cristata</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>&lt;i&gt;Hystrix africaeaustralis&lt;/i&gt;, Rasselbecher</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9b_Bezeichnung_Neue_Allgemein>Kap-Stachelschwein, Rasselbecher</a9b_Bezeichnung_Neue_Allgemein>
+      <a9c_Synonyma>Südafrikanisches Stachelschwein</a9c_Synonyma>
+      <a12a_Datierung_von>rezent</a12a_Datierung_von>
+      <a12aa_Datierung_bis>rezent</a12aa_Datierung_bis>
+      <a13a_Fundort>Kapstadt, Province of the Western Cape - South Africa - Africa - World</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>33° 56' 00" S, 018° 28' 00" E</a13b_Fundort-Koordinaten>
+      <a13c_Fundort_Getty-ID>7000811</a13c_Fundort_Getty-ID>
+      <a14a_Sammler>Lichtenstein, Martin Hinrich Karl von (1780-1857)</a14a_Sammler>
+      <a14aa>cnp01262952</a14aa>
+      <a14b>1802-01-01</a14b>
+      <a14ba>1809-12-31</a14ba>
+      <a15a_Erhalten_von>Lichtenstein, Martin Hinrich Karl von (1780-1857)</a15a_Erhalten_von>
+      <a15aa>cnp01262952</a15aa>
+      <a15b_Datum_Sammlungseingang_von>1802-01-01</a15b_Datum_Sammlungseingang_von>
+      <a15ba_Datum_Sammlungseingang_bis>1809-12-31</a15ba_Datum_Sammlungseingang_bis>
+      <a16a_Erwerbsform>Geschenk</a16a_Erwerbsform>
+      <a18>Handbuch der Naturgeschichte (1 ed., 1779/1780: 73; 2 ed., 1782: 72; 3 ed., 1788: 74; 4 ed., 1791: 66; 5 ed., 1797: 83; 6 ed., 1799: 84; 7 ed., 1803: 85; 8 ed., 1807: 87-88; 9 ed., 1814: 88-89; 10 ed., 1821: 89-90; 11 ed., 1825: 74; 12 ed., 1830: 55)</a18>
+      <a19>00147 (9): (ohne Seitenzählung, Text zu Taf. 81)</a19>
+      <a20>00147 (9): Taf. 81; Mohr, E. (1965): Abb. 6</a20>
+      <a21>nein</a21>
+      <a22>Mohr, E. (1965): Altweltliche Stachelschweine. 164 S., Die Neue Brehm-Bücherei Band 350, Wittenberg Lutherstadt (A. Ziemsen)</a22>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG</a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>1</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>0</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>M. Reich, A. Gehler, A. Böhme</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2010-03-15</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2014-08-13</f3b>
+      
+         <pcdm:Object id="c1474d38-41af-463a-b18b-69466d2c4546">
+            <pcdm:File id="562">fuploadtxbolonlineKerndaten30GZGHST03432D11133223176974.47.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>3</id>
+         <kerndaten_id>3</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="bd9acde8-e5bd-492c-9dd5-ebeeae812c61">
+               <pcdm:File id="1093">fuploadtxbolonlinePartII3300GZGHST03432D05133223179077.76.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>3</id>
+         <kerndaten_id>3</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b7a>L=102 [mm] D=7 [mm]</b7a>
+         <b8>G=16.3 [g]</b8>
+         <b9a>Reagenzglas mit Korken, versiegelt mit rotem Siegellack</b9a>
+         <b9b>L (Reagenzglas)=135 mm mit unebenem Rand (da z. T. ausgebrochen); D (Reagenzglas)=14 mm; G (Reagenzglas inklusiver Objekt) =16.3 [g]</b9b>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b11a>nein</b11a>
+         <b12>0.343</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="bfbc195d-153a-4971-a702-ef8321633a76">
+               <pcdm:File id="162">fuploadtxbolonlinePartIII5300GZGHST03432D12133223183301.21.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="163">fuploadtxbolonlinePartIII5310GZGHST03432D13133223183312.75.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="164">fuploadtxbolonlinePartIII5320GZGHST03432D14133223183322.22.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>5</id>
+         <kerndaten_id>3</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Einer der mittlern  Schwanzkiele der  Hystrix cristata.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>Direkt auf die historische Aufbewahrung geklebt, an den oberen Rand des Reagenzglases</c3_Art_Original-Etikett>
+         <c4>B=12.5 [mm] L=31 [mm]</c4>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>gut</c6a>
+         <c7a>nein</c7a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>9</id>
+         <kerndaten_id>3</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Zoologie</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="4b5df01f-5b4e-4ea8-ac15-78b40b675388">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>4</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1448623333</tstamp>
+      <crdate>1448623333</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Limerick (Steinmeteorit)</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Meteoritenkunde</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.330a-b</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>115; 4.23.17.2</a5_Sekundär-Nummer>
+      <a6_Serie>2</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Meteorite: Steinmeteorite: Chondrite: gewöhnliche Chondrite: H5</a7a_Großgruppe_Fachtermini>
+      <a8_Bezeichnung_Original>Meteorite, Aërolith</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>H5-Chondrit</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>Adare; Faha; Limerick County; Limerik</a9c_Synonyma>
+      <a9d_mindat_URI>http://www.lpi.usra.edu/meteor/metbull.php?code=14652</a9d_mindat_URI>
+      <a12a_Datierung_von>Hadaikum (4000 - 4600)</a12a_Datierung_von>
+      <a12aa_Datierung_bis>Hadaikum (4000 - 4600)</a12aa_Datierung_bis>
+      <a12b_Bemerkungen_zur_Datierung>Fall am 10. September 1813, 9:00 h</a12b_Bemerkungen_zur_Datierung>
+      <a12e>Beobachteter Fall</a12e>
+      <a13a_Fundort>Adare, County Limerick - Munster - Republic of Ireland - Europe - World</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>52° 34' 00" N, 008° 48' 00" W</a13b_Fundort-Koordinaten>
+      <a13c_Fundort_Getty-ID>1042565</a13c_Fundort_Getty-ID>
+      <a14b>1813-01-01</a14b>
+      <a14ba>1814-12-31</a14ba>
+      <a15a_Erhalten_von>Giesecke, Carl Ludwig von (1761-1833)</a15a_Erhalten_von>
+      <a15aa>cnp01271031</a15aa>
+      <a15b_Datum_Sammlungseingang_von>1813-01-01</a15b_Datum_Sammlungseingang_von>
+      <a15ba_Datum_Sammlungseingang_bis>1814-12-31</a15ba_Datum_Sammlungseingang_bis>
+      <a16a_Erwerbsform>Geschenk</a16a_Erwerbsform>
+      <a17_Bemerkungen_Erwerbsform>Blumenbach erhielt für seine Sammlung eine Probe durch K.  L. Giesecke (= Johann Georg Metzler), einem seiner ehemaligen Schüler, der von 1813 bis zu seinem Tod im Jahr 1833 Professor für Mineralogie in Dublin war.</a17_Bemerkungen_Erwerbsform>
+      <a18>Handbuch der Naturgeschichte (9 ed., 1814: 614f.; 10 ed., 1821: 624; 11 ed., 1825: 516; 12 ed., 1830: 406f.)</a18>
+      <a21>nein</a21>
+      <a22>Higgins (1818: 355-358); Wöhler (1865a: 30); Wöhler (1865b: 19); Wöhler (1868: 20); Klein (1879: 86); Koritnig (1962: 349-370)</a22>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <c1_Anzahl_Original-Etiketten>3</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>7</c2_Anzahl_Sekundär-Etiketten>
+      <f1>Abgabe von 1,7 g am 01.10.1964 an Prof. Ramdohr; über diesen Meteoritenschauer berichtet Higgins (1818), dass nach heftigen explosionsartigen Geräuschen mehrere Steine in der Grafschaft Limerick fielen. Die drei größten Stücke dieses Falls hatten ein Gewicht von ca. 29,5; 10,9 und 7,7 kg. Die Hauptmasse befindet sich heute im National Museum of Ireland in Dublin.</f1>
+      <f2a_Bearbeiter>M. Reich, A. Gehler, A. Böhme</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2010-03-15</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2015-11-27</f3b>
+      
+         <pcdm:Object id="f8024d1e-51e0-40e0-9ef7-625a67e20444">
+            <pcdm:File id="16">fuploadtxbolonlineKerndaten40HST0330LimerickMeteorit129129338555.34.jpg</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>4</id>
+         <kerndaten_id>4</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="eebaf50d-9e3e-4251-9a9c-4e5e610c00d1">
+               <pcdm:File id="10">fuploadtxbolonlinePartII4400HST0330LimerickMeteorit129129457577.59.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>4</id>
+         <kerndaten_id>4</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b1_Objektes_Art>Trockenpräparat, an einer Seite glatte Sägefläche</b1_Objektes_Art>
+         <b2>Steinmeteorit</b2>
+         <b6>Außenseite dunkelbraun, Bruchstellen und Sägefläche grau bis metallisch; Zahl der Stücke des Schauers ist unbekannt, Gesamtgewicht um 50 kg</b6>
+         <b8>G=82 [g]</b8>
+         <b9a>nicht vorhanden</b9a>
+         <b10a_Objekte_Zustand>gut</b10a_Objekte_Zustand>
+         <b10b>ein kleines Stück abgebrochen (an der Sägekante)</b10b>
+         <b11a>ja: ggf. Stück kleben</b11a>
+         <b11b>mit Vaseline eingerieben</b11b>
+         <b11c>1943-09-29</b11c>
+         <b12>0.330a</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+         <id>5</id>
+         <kerndaten_id>4</kerndaten_id>
+         <block_nr>1</block_nr>
+         <b1_Objektes_Art>Trockenpräparat, an einer Seite glatte Sägefläche (vom Hauptstück abgebrochenes, kleines Bruchstück)</b1_Objektes_Art>
+         <b2>Steinmeteorit</b2>
+         <b6>Außenseite dunkelbraun, Bruchstellen und Sägefläche grau bis metallisch; Zahl der Stücke des Schauers ist unbekannt, Gesamtgewicht um 50 kg</b6>
+         <b7a>L=1,1; B=0,5; H=0,3</b7a>
+         <b8>0,2</b8>
+         <b9a>nicht vorhanden</b9a>
+         <b10a_Objekte_Zustand>gut</b10a_Objekte_Zustand>
+         <b10b>kleines, abgebrochenes Bruchstück</b10b>
+         <b11a>ja: ggf. Stück kleben</b11a>
+         <b11b>mit Vaseline eingerieben</b11b>
+         <b11c>29.IX.43 (29.09.1943)</b11c>
+         <b12>0.330b</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="88d832b7-2422-4077-b7cc-6bf94daa4560">
+               <pcdm:File id="20">fuploadtxbolonlinePartIII6400DSC022714Kopie129129500765.15.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>6</id>
+         <kerndaten_id>4</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Meteorite of  Adare, County  of Limerick.  Ireland.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert, rechteckige Form, linke obere und rechte untere Ecke fehlend, rechte obere Ecke ist abgerissen, aber noch vorhanden</c3_Art_Original-Etikett>
+         <c4>B=19.5 [mm] L=29 [mm]</c4>
+         <c5>Original-Etikett von Prof. Giesecke?, schwarze Tinte</c5>
+         <c6a>mäßig</c6a>
+         <c6b>linke obere und rechte untere Ecke fehlend, z. T. geknickt und leicht eingerissen</c6b>
+         <c7a>ja: Etikett kleben</c7a>
+         <c7b>keine</c7b>
+     </pcdm:AdministrativeSet>
+     <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="cbf1585c-c363-4c24-b955-7cfeebeb5fac">
+               <pcdm:File id="21">fuploadtxbolonlinePartIII7401DSC022694Kopie129129518852.89.jpg</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>7</id>
+         <kerndaten_id>4</kerndaten_id>
+         <block_nr>1</block_nr>
+         <a10_Text_Original-Etikett>Aërolith  gefallen bey Limmerik  in Irland.  v. Hrn. Prof. Gieseke in Dublin</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert, rechteckige Form, dickes Papier</c3_Art_Original-Etikett>
+         <c4>L=6; B=4,25 </c4>
+         <c5>Handschrift von Blumenbach, mit dicker schwarzer Tinte</c5>
+         <c6a>gut</c6a>
+         <c7a>nein</c7a>
+         <c7b>keine</c7b>
+     </pcdm:AdministrativeSet>
+     <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="52292fc1-2452-4f40-9921-eed596d11537">
+               <pcdm:File id="22">fuploadtxbolonlinePartIII8402DSC022683129129535745.22.jpg</pcdm:File>
+               <block_nr>2</block_nr>
+            </pcdm:Object>
+         <id>8</id>
+         <kerndaten_id>4</kerndaten_id>
+         <block_nr>2</block_nr>
+         <a10_Text_Original-Etikett>Limerick</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>kleines Etikett, direkt auf das Stück geklebt</c3_Art_Original-Etikett>
+         <c4>L=1,7; B=0,45</c4>
+         <c5>Original-Etikett von Prof. Giesecke?, schwarze Tinte</c5>
+         <c6a>gut</c6a>
+         <c7a>nein</c7a>
+         <c7b>keine</c7b>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>10</id>
+         <kerndaten_id>4</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Meteoritenkunde</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="a50c3305-0ea5-499e-83e5-f033ff66cb7c">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>646</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1448623373</tstamp>
+      <crdate>1448623373</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Stannern (Steinmeteorit)</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Meteoritenkunde</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.334</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>422; 3.22.6.4</a5_Sekundär-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Meteorite: Steinmeteorite: Achondrite: HED-Gruppe: Eukrite</a7a_Großgruppe_Fachtermini>
+      <a7b_Großgruppe_Allgemein>Meteorite: Steinmeteorite: Achondrite: HED-Gruppe: Eukrite</a7b_Großgruppe_Allgemein>
+      <a8_Bezeichnung_Original>Aërolith</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>Eukrit</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>Cilli; Iglau; Langenpiernitz; Stannein; Stonarov; Stonarow; Stummern</a9c_Synonyma>
+      <a9d_mindat_URI>http://www.lpi.usra.edu/meteor/metbull.php?code=23713</a9d_mindat_URI>
+      <a12a_Datierung_von>Hadaikum (4000 - 4600)</a12a_Datierung_von>
+      <a12aa_Datierung_bis>Hadaikum (4000 - 4600)</a12aa_Datierung_bis>
+      <a12b_Bemerkungen_zur_Datierung>Fall am 22. Mai 1808</a12b_Bemerkungen_zur_Datierung>
+      <a12e>Beobachteter Fall</a12e>
+      <a13a_Fundort>Stonařov [Stannern], Kraj Vysočina, Tschechische Republik</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>49° 17` 0`` N 15° 34` 0`` E</a13b_Fundort-Koordinaten>
+      <a14b>1808-05-22</a14b>
+      <a15a_Erhalten_von>Schreibers, Karl von (1775-1852)</a15a_Erhalten_von>
+      <a15aa>cnp00388438</a15aa>
+      <a16a_Erwerbsform>vermutlich Geschenk</a16a_Erwerbsform>
+      <a17_Bemerkungen_Erwerbsform>K. V. Schreibers, damaliger Direktor des kaiserlichen Naturalienkabinettes in Wien, reiste schon einige Tage nach dem Fall nach Stannern (Schreibers 1808) um sich persönlich ein Bild der Fallumstände machen zu können und Proben zu sammeln. Die Steine hatten ein Gewicht von wenigen Gramm bis zu 3,35 kg und von Schreibers war es möglich eine größere Menge von diesen zu akquirieren. </a17_Bemerkungen_Erwerbsform>
+      <a21>nein</a21>
+      <a22>Jaquin, N. J. von (1808): Ein neuer Steinregen, am 22sten Mai 1808, in Mähren – Annalen der Physik 28: 491. Schreibers, K. von (1808): Nachrichten von dem Steinregen, der sich am 22sten Mai 1808 in und um Stannern in Mähren ereignet hat; gesammelt auf einer Reise nach Stannern, in Gesellschaft des Directors von Widmanstätten – Annalen der Physik 29: 225-247.</a22>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG</a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>2</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>5</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>A. Gehler</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2012-10-04</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2015-11-27</f3b>
+      
+         <pcdm:Object id="a5e1ef3a-3c73-460d-9e9a-20e5edc78292">
+            <pcdm:File id="743">fuploadtxbolonlineKerndaten6460GZGHST03342D11134940982092.02.JPG</pcdm:File>
+            <pcdm:File id="744">fuploadtxbolonlineKerndaten6460GZGHST03342D13134940986501.25.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>738</id>
+         <kerndaten_id>646</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="10fab38d-a80c-419f-907b-213b6f2f91c4">
+               <pcdm:File id="2118">fuploadtxbolonlinePartII77564600GZGHST03342D11134940992579.47.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="2119">fuploadtxbolonlinePartII77564610GZGHST03342D13134940992595.45.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="2120">fuploadtxbolonlinePartII77564620GZGHST03342D07134940992606.71.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>775</id>
+         <kerndaten_id>646</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b1_Objektes_Art>Fragment eines Individuums (ca. 50%)</b1_Objektes_Art>
+         <b3d>etwa 40% Schmelzkruste erhalten</b3d>
+         <b8>G=187.9 [g]</b8>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b10b>frühere Gewichtsangaben: Wöhler (1864, 1865, 1868, 1870, 1874): 249g Klein (1879): 248g Koritnig (1962): 188,1g Materialabgabe: ??g, 20.10.1931 für Spektralanalyse [??]</b10b>
+         <b11a>nein</b11a>
+         <b12>0.334</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="6d7dd35d-ff1b-46ac-ad78-906e8462c1f9">
+               <pcdm:File id="264">fuploadtxbolonlinePartIII75864600GZGHST03342D02134940997438.53.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>758</id>
+         <kerndaten_id>646</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>von den vielen Aërolithen die d. 22 May 1808 bey Stannern in Mähren ohn- weit Iglau vom Himmel gefallen, erhalten v. Hrn Dr Schreibers.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>gut</c6a>
+         <c6b>Knick im rechten Bereich, vermutlich durch ehemals zu kleine Aufbewahrungsschachtel</c6b>
+         <c7a>nein</c7a>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="133122de-4889-48c9-b3ce-942d28ab0f89">
+               <pcdm:File id="265">fuploadtxbolonlinePartIII75964601GZGHST03342D05134940997450.85.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>759</id>
+         <kerndaten_id>646</kerndaten_id>
+         <block_nr>1</block_nr>
+         <a10_Text_Original-Etikett>Aërolith gefallen bey Stannern in Mähren d. 22 May 1808</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>gut</c6a>
+         <c7a>nein</c7a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>877</id>
+         <kerndaten_id>646</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Meteoritenkunde</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="1b2d6389-8f7a-443c-afeb-23c846e9ac56">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>5</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1420995662</tstamp>
+      <crdate>1420995662</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Stammstück eines Baumfarns (&lt;i&gt;Cyathea arborea&lt;/i&gt;)</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Botanik</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.250</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>101-17</a5_Sekundär-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Tracheophyta: Polypodiopsida: Cyatheales: Cyatheaceae</a7a_Großgruppe_Fachtermini>
+      <a7b_Großgruppe_Allgemein>Gefäßpflanzen: Echte Farne: Baumfarne: Schuppige Baumfarne</a7b_Großgruppe_Allgemein>
+      <a8_Bezeichnung_Original>Cyathea arborea</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>&lt;i&gt;Cyathea arborea&lt;/i&gt;, Stammstück </a9a_Bezeichnung_Neue_Fachtermini>
+      <a9b_Bezeichnung_Neue_Allgemein>Westindischer Baumfarn, Stammstück</a9b_Bezeichnung_Neue_Allgemein>
+      <a9c_Synonyma>Karibischer Baumfarn</a9c_Synonyma>
+      <a12a_Datierung_von>rezent</a12a_Datierung_von>
+      <a12aa_Datierung_bis>rezent</a12aa_Datierung_bis>
+      <a13a_Fundort>Rio de Janeiro (Serra d'Estrella [?] bei Rio de Janeiro), Rio de Janeiro state - Sudeste region - Brasil - South America - World </a13a_Fundort>
+      <a13c_Fundort_Getty-ID>7017095</a13c_Fundort_Getty-ID>
+      <a13d>1001942</a13d>
+      <a16a_Erwerbsform>vermutlich Geschenk</a16a_Erwerbsform>
+      <a21>nein</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <c1_Anzahl_Original-Etiketten>1</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>1</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>M. Reich, A. Böhme, A. Gehler</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2010-05-03</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2015-01-11</f3b>
+      
+         <pcdm:Object id="1a526e47-13de-468e-aa58-c09a5d0fb872">
+            <pcdm:File id="19">fuploadtxbolonlineKerndaten50HST0250Cyatheaarborea129129646122.26.jpg</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>5</id>
+         <kerndaten_id>5</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="a2713b1d-0544-4c1c-8e10-94de6e585d35">
+               <pcdm:File id="11">fuploadtxbolonlinePartII6500HST0250Cyatheaarborea129129672512.81.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="102">fuploadtxbolonlinePartII6500BaumfarnOriginal300dpi800pxBAnimation03130709228865.99.gif</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="103">fuploadtxbolonlinePartII6510Baumfarnoriginal300dpi1000pxB130709228866.24.swf</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>6</id>
+         <kerndaten_id>5</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b1_Objektes_Art>Trockenpräparat; komplettes, aus dem Stamm herausgesägtes Stammstück</b1_Objektes_Art>
+         <b2>organisch, verholzt</b2>
+         <b6>braun mit charakteristischem Blattnarben-Mosaik und innen hohl</b6>
+         <b7a>H=101 [mm] D=80 [mm]</b7a>
+         <b8>G=167.9 [g]</b8>
+         <b9a>nicht vorhanden</b9a>
+         <b10a_Objekte_Zustand>gut</b10a_Objekte_Zustand>
+         <b10b>teilweise mit Rissbildung</b10b>
+         <b11a>nein</b11a>
+         <b12>0.250</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="01ced095-4a3a-4059-8157-3c0dd545b6d3">
+               <pcdm:File id="23">fuploadtxbolonlinePartIII9500HST0250CyatheaarboreaEtikett129129685678.79.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>9</id>
+         <kerndaten_id>5</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Cyathea arborea  Plumier t. 1.2.  bis 40 ’ […]  v. Serra d.’Estrella bey R. de Janeiro</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert, rechteckig, sehr dickes Papier</c3_Art_Original-Etikett>
+         <c4>B=92 [mm] L=61 [mm]</c4>
+         <c5>Handschrift von Blumenbach, rote und schwarze Tinte, zittrig</c5>
+         <c6a>sehr gut</c6a>
+         <c7a>nein</c7a>
+         <c7b>keine</c7b>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>11</id>
+         <kerndaten_id>5</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+         <d3a>sehr gut</d3a>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Botanik</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="8c05293d-ab15-4e8a-a16e-b24ac10868ae">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>6</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1386845506</tstamp>
+      <crdate>1386845506</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Fiederblättchen und Sporangien des fossilen Farns &lt;i&gt;Scolecopteris elegans&lt;/i&gt;</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Paläobotanik</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.237</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>101-9</a5_Sekundär-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Tracheophyta: Marattiopsida: Marattiaceae </a7a_Großgruppe_Fachtermini>
+      <a7b_Großgruppe_Allgemein>Gefäßpflanzen: Marattiopsida: Marattiaceae</a7b_Großgruppe_Allgemein>
+      <a8_Bezeichnung_Original>irrig sogenannter Madenstein, Fructificationstheile eines präadamitischen Riesen-farnkrauts. (einer Onoclea?)</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>&lt;i&gt;Scolecopteris elegans&lt;/i&gt;</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>Madenfarn, Madenstein, &lt;i&gt;Palaeojulus dyadicus&lt;/i&gt;</a9c_Synonyma>
+      <a12a_Datierung_von>Sakmarium (284.4 - 294.6)</a12a_Datierung_von>
+      <a12aa_Datierung_bis>Sakmarium (284.4 - 294.6)</a12aa_Datierung_bis>
+      <a12b_Bemerkungen_zur_Datierung>Perm, Rotliegendes, Cisuralium, Sakmarium, Bannewitz-Hainberg-Formation; s. a. A22</a12b_Bemerkungen_zur_Datierung>
+      <a13a_Fundort>Plauen (Windberg bei Plauen), Döhlener Becken, Chemnitz district - Sachsen - Deutschland - Europe - World</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>50° 29' 00" N, 012° 08' 00" E</a13b_Fundort-Koordinaten>
+      <a13c_Fundort_Getty-ID>1037492</a13c_Fundort_Getty-ID>
+      <a14a_Sammler>Christian Gottlieb Pötzsch / Herr E. v. Liebenroth ?</a14a_Sammler>
+      <a14ba>1800-12-31</a14ba>
+      <a15a_Erhalten_von>Christian Gottlieb Pötzsch / Herr E. v. Liebenroth ?</a15a_Erhalten_von>
+      <a15ba_Datum_Sammlungseingang_bis>1816-12-31</a15ba_Datum_Sammlungseingang_bis>
+      <a16a_Erwerbsform>vermutlich Geschenk</a16a_Erwerbsform>
+      <a17_Bemerkungen_Erwerbsform>Herr Christian Gottlieb Pötzsch (1732-1805) war Konservator des kurfürstlichen Mineralienkabinetts (Dresden)</a17_Bemerkungen_Erwerbsform>
+      <a18>Handbuch der Naturgeschichte (10 ed., 1821: 766f.; 11 ed., 1825: 629; 12 ed., 1830: 498)</a18>
+      <a19>Specimen archaeologiae telluris terrarumque inprimis Hannoveranarum (3, 1816: 18 f.)</a19>
+      <a20>Specimen archaeologiae telluris terrarumque inprimis Hannoveranarum (3, 1816: Taf. I, Fig. 3-4)</a20>
+      <a21>ja</a21>
+      <a22>Zenker (1837: 509-512), Geinitz (1872: 128), Solms-Laubach (1883: 26-38), Barthel (1976: 1-97; 2002: 64-77), Barthel et al. (1995: 117-135; 2001: 197-202), Rössler (2001: 28-37), Kretzschmar (2005: 49-56)</a22>
+      <a23>Festlegung Lectotypus durch Barthel et al. (1995)</a23>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <c1_Anzahl_Original-Etiketten>1</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>4</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>M. Reich, A. Böhme, A. Gehler</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2010-05-04</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2013-12-12</f3b>
+      
+         <pcdm:Object id="aa7d95ff-2642-456b-8468-b90cf47aef49">
+            <pcdm:File id="22">fuploadtxbolonlineKerndaten60HST0237ScolecopteriselegansGestein129129733330.4.jpg</pcdm:File>
+            <pcdm:File id="300">fuploadtxbolonlineKerndaten6000000004131097450364.46.tif</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>6</id>
+         <kerndaten_id>6</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="1499f7ed-22b5-4f3c-891b-ac35d13864c4">
+               <pcdm:File id="12">fuploadtxbolonlinePartII7600HST0237ScolecopteriselegansGestein129129787851.75.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="13">fuploadtxbolonlinePartII7610HST0237ScolecopteriselegansEtikett129129787852.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="16">fuploadtxbolonlinePartII7600Scolecopteris360Animation130467719208.45.swf</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="101">fuploadtxbolonlinePartII7600Scolecopteris360Animationexternbearbeitet300dpi800pxB03sec130709205574.99.gif</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>7</id>
+         <kerndaten_id>6</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b1_Objektes_Art>Trockenpräparat, eine Seite glatt angeschliffen und poliert</b1_Objektes_Art>
+         <b2>Hornstein (Chert)</b2>
+         <b5>ursprünglich für versteinerte Maden gehalten</b5>
+         <b6>rötlich-bräunlich, mit weißen Fiederblättchen und Sporangien</b6>
+         <b7a>B=35 [mm] L=75 [mm]</b7a>
+         <b8>G=28.1 [g]</b8>
+         <b9a>Holzkästchen mit abnehmbarem Deckel</b9a>
+         <b9b>L=150 mm; B=92 mm; Kästchen ohne Deckel: 40.8 [g]; Deckel: 61 g </b9b>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b11a>nein </b11a>
+         <b12>0.237</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="6b4e7582-bb26-46c8-ba54-101b03a2d090">
+               <pcdm:File id="24">fuploadtxbolonlinePartIII10600HST0237ScolecopteriselegansEtikett129129796001.62.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>10</id>
+         <kerndaten_id>6</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Das Schönste bis jetzt bekannte Exemplar  der seltenen Versteinerungen,  des irrig sogenannten Madensteins,  nemlich der Fructificationstheile eines  präadamitischen Riesen-farnkrauts. (einer Onoclea?) Auf dem Windberge  im Plauischen Grunde als Hornsteingeschiebe  gefunden von Christ. Gottl. Pötzsch[…?] Bemerk. Über den Granit p. 378.  u. Becker vom Plauischen Grunde II. p. 36. Orig. Blumenbach</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>Direkt auf die historische Aufbewahrung geklebt, auf die Oberseite des Holzdeckels, rötliches Papier</c3_Art_Original-Etikett>
+         <c4>B=12 [mm] L=31 [mm]</c4>
+         <c5>Handschrift von Blumenbach, schwarze Tinte, der Zusatz „Orig. Blumenbach“ allerdings nachträglich mit anderer Handschrift hinzugefügt</c5>
+         <c6a>sehr gut</c6a>
+         <c7a>nein</c7a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>12</id>
+         <kerndaten_id>6</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>Kl. Naundorf [...?]</a11>
+         <d1>direkt auf der Rückseite des Stückes</d1>
+         <d2>Handschrift, schwarz, nicht Blumenbach</d2>
+         <d3a>mäßig</d3a>
+         <d3b>zum Teil nicht mehr lesbar</d3b>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Palaeobotanik</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="db6fed70-f41c-4fc3-afd1-fa531a70d41c">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>7</kerndaten_id>
+      <uid>27</uid>
+      <pid>1</pid>
+      <tstamp>1448023584</tstamp>
+      <crdate>1448023584</crdate>
+      <cruser_id>5</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Allanit-(Ce)</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Mineralogie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>1.787</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>2; 8.3.92.65</a5_Sekundär-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Silikate: Sorosilikate</a7a_Großgruppe_Fachtermini>
+      <a7b_Großgruppe_Allgemein>Silikate: Gruppensilikate</a7b_Großgruppe_Allgemein>
+      <a8_Bezeichnung_Original>Allanit</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>Allanit-(Ce) [(Ce, Ca, Y)2(Al, Fe3+)3(SiO4)3(OH)]</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>Cerin, Cerorthit, Cerepidot</a9c_Synonyma>
+      <a9d_mindat_URI>http://www.mindat.org/min-125.html</a9d_mindat_URI>
+      <a13a_Fundort>Dänemark, Grönland, Kitaa, Fiskenaes (= Qáqarssuatsiaq)</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>63° 5` 0`` N 50° 40` 0`` W</a13b_Fundort-Koordinaten>
+      <a13d>7031901</a13d>
+      <a14a_Sammler>Giesecke, Carl Ludwig von (1761-1833)</a14a_Sammler>
+      <a14aa>cnp01271031</a14aa>
+      <a14b>1806-01-01</a14b>
+      <a14ba>1813-12-31</a14ba>
+      <a15a_Erhalten_von>Giesecke, Carl Ludwig von (1761-1833)</a15a_Erhalten_von>
+      <a15aa>cnp01271031</a15aa>
+      <a15b_Datum_Sammlungseingang_von>1818-01-01</a15b_Datum_Sammlungseingang_von>
+      <a15ba_Datum_Sammlungseingang_bis>1818-12-31</a15ba_Datum_Sammlungseingang_bis>
+      <a16a_Erwerbsform>vermutlich Geschenk</a16a_Erwerbsform>
+      <a17_Bemerkungen_Erwerbsform>Karl Ludwig Giesecke (= Johann Georg Metzler; 1761-1833) hatte das Originalmaterial zu Thomas Thomsons (1773-1852) Beschreibung auf Grönland gesammelt. Benannt wurde das Mineral nach dem schottischen Mineralogen Thomas Allan (1777-1833)</a17_Bemerkungen_Erwerbsform>
+      <a18>Handbuch der Naturgeschichte (11 ed., 1825: 608/609; 12 ed., 1830: 482)</a18>
+      <a21>ja</a21>
+      <a22>Thomson (1810: 371-386; 1811a: 278-288; 1811b: 47-59; 1812a: 345-351; 1812b: 371-386; 1813: 113-125), Petersen et al. (2006: 200-205)</a22>
+      <a23>prä-IMA 1810</a23>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>1</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>3</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>M. Reich, A. Böhme, A. Gehler, N. Schäfer</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2010-05-05</f2b_Datum_Erstbearbeitung>
+      <f3a>N. Schäfer</f3a>
+      <f3b>2015-11-20</f3b>
+      
+         <pcdm:Object id="86cfe2ea-40f2-45b9-a944-a1a8e3410ef1">
+            <pcdm:File id="24">fuploadtxbolonlineKerndaten70MIN839265Allanit129129932244.71.jpg</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>7</id>
+         <kerndaten_id>7</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>10 [?]</a4_Original-Nummer>
+         <e1>Anbringung auf der Rückseite des Original-Etiketts</e1>
+         <e2>L=42 [mm]; B=59 [mm]</e2>
+         <e3>Handschrift, schwarze Tinte, zittrig (Blumenbach?)</e3>
+         <e4a>sehr gut</e4a>
+         <e5a>nein</e5a>
+         <e5b>keine</e5b>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="56b4ad70-6658-48bf-bb51-4c7019fd1eb2">
+               <pcdm:File id="15">fuploadtxbolonlinePartII8700MIN839265Allanit130467689032.47.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>8</id>
+         <kerndaten_id>7</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b1_Objektes_Art>Trockenpräparat, Mineralparagenese </b1_Objektes_Art>
+         <b2>silikatisches Mineral</b2>
+         <b6>Mineralfarbe: braun bis schwarz</b6>
+         <b7a>H=12 [mm] B=29 [mm] L=34 [mm]</b7a>
+         <b8>G=21 [g]</b8>
+         <b9a>nicht vorhanden</b9a>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b11a>nein</b11a>
+         <b12>1.787</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="191b7cda-e379-4973-8c97-8a8becc34922">
+               <pcdm:File id="27">fuploadtxbolonlinePartIII11700MIN839265AllanitEtikett130467692025.89.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>11</id>
+         <kerndaten_id>7</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Allanit  in Gneis  v. Fiskenas in Grönland  v. H. Prof. Giesecke 1818.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c4>B=59 [mm] L=42 [mm]</c4>
+         <c5>Handschrift von Blumenbach, schwarze Tinte, zittrig</c5>
+         <c6a>gut</c6a>
+         <c6b>mittig ein ausgeprägter Falz</c6b>
+         <c7a>nein</c7a>
+         <c7b>keine</c7b>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>13</id>
+         <kerndaten_id>7</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Mineralogie</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="124f528b-e261-4645-85d2-5cd22a7c30d2">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>8</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1384896889</tstamp>
+      <crdate>1384896889</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Brachiopode (&lt;i&gt;Pliothyrina grandis&lt;/i&gt;)</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Palaeozoologie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.450</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>101-1</a5_Sekundär-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Brachiopoda: Rhynchonelliformea: Terebratulida: Terebratulidae</a7a_Großgruppe_Fachtermini>
+      <a7b_Großgruppe_Allgemein>Armfüßer: Rhynchonelliformea: Terebratulida: Terebrateln s. s.</a7b_Großgruppe_Allgemein>
+      <a8_Bezeichnung_Original>Terebratulites grandis </a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>&lt;i&gt;Pliothyrina grandis&lt;/i&gt;</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>&lt;i&gt;Terebratula grandis&lt;/i&gt;</a9c_Synonyma>
+      <a12a_Datierung_von>Chattium (23.03 - 28.4)</a12a_Datierung_von>
+      <a12aa_Datierung_bis>Chattium (23.03 - 28.4)</a12aa_Datierung_bis>
+      <a12c>Biostratigraphie</a12c>
+      <a12d>an Mikrofossilien (Kalknannoplankton, Foraminiferen und Dinozysten); vgl. u. a. Köthe, A. (2005): Korrelation der Dinozysten-Zonen mit anderen biostratigraphisch wichtigen Zonierungen im Tertiär Norddeutschlands. – Revue de Paléobiologie 24 (2): 697-718</a12d>
+      <a13a_Fundort>Astruper Mergelgrube, Osnabrück, Deutschland</a13a_Fundort>
+      <a13d>7005252</a13d>
+      <a14ba>1803-12-31</a14ba>
+      <a15ba_Datum_Sammlungseingang_bis>1803-12-31</a15ba_Datum_Sammlungseingang_bis>
+      <a18>00027: 701; 00029: 727; 00030: 735</a18>
+      <a19>00139: 18; 00453: 147</a19>
+      <a20>00139: Taf. 1, Fig. 4; 00453: Taf. 1, Fig. 4</a20>
+      <a21>ja</a21>
+      <a22>Dunker (1847: 129), Sandberger (1863: 384), Speyer (1864: 321), v. Koenen (1867: 151, Taf. 14, Fig. 1b; 1868: 224; 1894: 1339), Lienenklaus (1891: 92), Harder (1913: 43), Albrecht &amp; Valk (1943: 15), Görges (1957: 122-123), García Ramos (2006: 25, 29, 32-33, Fig. 2)</a22>
+      <a23>Holotypus durch Monotypie</a23>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG</a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>2</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>1</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>M. Reich, A. Böhme, A. Gehler</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2010-05-04</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2013-11-19</f3b>
+      
+         <pcdm:Object id="598943bf-25ed-4032-bee1-913ed491453b">
+            <pcdm:File id="560">fuploadtxbolonlineKerndaten80GZGHST04502D06133221698207.88.JPG</pcdm:File>
+            <pcdm:File id="561">fuploadtxbolonlineKerndaten81GZGHST04502D07133221698242.23.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>8</id>
+         <kerndaten_id>8</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="68c3eade-1486-460a-ad1c-b0a8c2333cb7">
+               <pcdm:File id="17">fuploadtxbolonlinePartII9800GZGHST0450Pliothyrinagrandis130468405872.09.swf</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="18">fuploadtxbolonlinePartII9800GZGHST0450PliothyrinagrandisFarbskala130468515488.71.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="19">fuploadtxbolonlinePartII9810GZGHST0450PliothyrinagrandisFarbskala130468515488.96.tif</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="1092">fuploadtxbolonlinePartII9800GZGHST04502D04133221703731.54.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>9</id>
+         <kerndaten_id>8</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b7a>H=35 [mm] B=55 [mm] L=70 [mm]</b7a>
+         <b8>G=139.9 [g]</b8>
+         <b9a>nicht vorhanden</b9a>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b11a>nein</b11a>
+         <b12>0.450</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="89662564-93c4-4967-ad69-297f3ec4472f">
+               <pcdm:File id="160">fuploadtxbolonlinePartIII12800GZGHST04502D02133221707537.48.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>12</id>
+         <kerndaten_id>8</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Terebratulites grandis aus der Astruper Mergel- grube im Osnabrückischen</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c4>B=63 [mm] L=49 [mm]</c4>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>gut</c6a>
+         <c7a>nein</c7a>
+     </pcdm:AdministrativeSet>
+<pcdm:AdministrativeSet id="part3">
+    
+            <pcdm:Object id="6e40eb26-7f73-4f30-9e88-98c2fd75ce96">
+               <pcdm:File id="161">fuploadtxbolonlinePartIII13801GZGHST04502D17133221707577.76.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>13</id>
+         <kerndaten_id>8</kerndaten_id>
+         <block_nr>1</block_nr>
+         <a10_Text_Original-Etikett>Osnabrück</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf dem Stück (Stielklappe) angebracht</c3_Art_Original-Etikett>
+         <c4>L=0,9; B=2,6</c4>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>mäßig</c6a>
+         <c6b>bereits eingerissen und sich vom Stück lösend</c6b>
+         <c7a>ja</c7a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>14</id>
+         <kerndaten_id>8</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Palaeozoologie</kategorie>
+      </taxons>
+   </pcdm:Object>
+    <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="e65c010f-b50e-4206-b5e4-d7ba182112c1">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>9</kerndaten_id>
+      <uid>27</uid>
+      <pid>1</pid>
+      <tstamp>1441196827</tstamp>
+      <crdate>1441196827</crdate>
+      <cruser_id>5</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Ethnologie</a0_Zusammenfassende_Bezeichnung>
+      <a21>nein</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Institut für Ethnologie</a24a_Standort_externen>
+      <a26_Objekt-Typ>Artificialia/Naturalia</a26_Objekt-Typ>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>9</id>
+         <kerndaten_id>9</kerndaten_id>
+         <block_nr>0</block_nr>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+         <id>10</id>
+         <kerndaten_id>9</kerndaten_id>
+         <block_nr>0</block_nr>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         <id>14</id>
+         <kerndaten_id>9</kerndaten_id>
+         <block_nr>0</block_nr>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>15</id>
+         <kerndaten_id>9</kerndaten_id>
+         <block_nr>0</block_nr>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Ethnologie</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="5f6a10df-a1b2-4cb1-9ff6-8b26c6e0d502">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>10</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1386844855</tstamp>
+      <crdate>1386844855</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Dazit-Porphyr “Porfido rosso antico“</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Geologie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.055</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>A.A.14.4. 16561.; 5.41</a5_Sekundär-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Magmatite: Vulkanite: Porphyre</a7a_Großgruppe_Fachtermini>
+      <a7b_Großgruppe_Allgemein>Erstarrungsgestein: Ergussgestein: Porphyre</a7b_Großgruppe_Allgemein>
+      <a8_Bezeichnung_Original>übermengter antiker Porphyr aus Aegypten</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>„Porfido rosso antico“, Dazit-Porphyr</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>Purpurstein, lapis purpureus porphyrites, Porfido rosso egiziano</a9c_Synonyma>
+      <a12a_Datierung_von>Präkambrium</a12a_Datierung_von>
+      <a12aa_Datierung_bis>Präkambrium</a12aa_Datierung_bis>
+      <a12b_Bemerkungen_zur_Datierung>es liegt keine konkrete Datierung am Stück vor</a12b_Bemerkungen_zur_Datierung>
+      <a13a_Fundort>Ägypten, vermutlich aus einem römischen Steinbruch (Mons Porphyrites) in der Nähe von Hurghada, Djebel Duchan („rauchender Berg“)</a13a_Fundort>
+      <a13d>1095262</a13d>
+      <a14a_Sammler>Niebuhr, Carsten (1733-1815)</a14a_Sammler>
+      <a14aa>cnp00399159</a14aa>
+      <a14b>1761-01-01</a14b>
+      <a14ba>1763-12-31</a14ba>
+      <a15a_Erhalten_von>Niebuhr, Carsten (1733-1815)</a15a_Erhalten_von>
+      <a15aa>cnp00399159</a15aa>
+      <a15b_Datum_Sammlungseingang_von>1761-01-01</a15b_Datum_Sammlungseingang_von>
+      <a15ba_Datum_Sammlungseingang_bis>1791-12-31</a15ba_Datum_Sammlungseingang_bis>
+      <a16a_Erwerbsform>vermutlich Geschenk</a16a_Erwerbsform>
+      <a17_Bemerkungen_Erwerbsform>Carsten Niebuhr (1733 – 1815), deutscher Mathematiker und Forschungsreisender. 1761 wurde er von König Frederik V. von Dänemark als Kartograf in die sechsköpfige dänische Arabien-Expedition berufen, die im gleichen Jahr als „Arabische Reise“ mit der Schiffspassage von Kopenhagen nach Alexandria (Ägypten) begann. Diese zweite deutsche wissenschaftliche Expedition zur Erforschung des Orients und Palästinas startete von Göttingen aus. Die Resultate der Reise wurden von Carsten Niebuhr in den Jahren 1772-1778 veröffentlicht.</a17_Bemerkungen_Erwerbsform>
+      <a18>00025: 562, 620; 00027: 609</a18>
+      <a21>nein</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>1</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>2</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>A. Böhme, A. Gehler</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2011-05-06</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      
+         <pcdm:Object id="b41e79b4-545e-40c9-a268-f926acecb680">
+            <pcdm:File id="371">fuploadtxbolonlineKerndaten100GZGHST00552D08131479982310.21.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>10</id>
+         <kerndaten_id>10</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="0d4e14f9-8764-48b0-ac49-e7fd2e87094e">
+               <pcdm:File id="35">fuploadtxbolonlinePartII111000GZGHST0055DazitPorphyrFarbskala130477218644.98.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="36">fuploadtxbolonlinePartII111010GZGHST0055DazitPorphyrFarbskala130477218645.21.tif</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="37">fuploadtxbolonlinePartII111020GZGHST0055DazitPorphyr130477218645.43.swf</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>11</id>
+         <kerndaten_id>10</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.055</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="a321ed59-3db6-46d1-b466-bf8ba7a473e2">
+               <pcdm:File id="79">fuploadtxbolonlinePartIII151000GZGHST00552D09131479992676.46.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>15</id>
+         <kerndaten_id>10</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>übermengter antiker Porphyr aus Aegypten.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         
+            <pcdm:Object id="c24b5daa-f046-4bb3-abbd-2bc53a138113">
+               <pcdm:File id="134">fuploadtxbolonlinePartIV161000GZGHST00552D12131910247190.85.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="135">fuploadtxbolonlinePartIV161010GZGHST00552D15131910247193.76.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>16</id>
+         <kerndaten_id>10</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>Aegypten.</a11>
+         <d1>direkt auf Objekt</d1>
+         <d3a>mäßig</d3a>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Geologie</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="7f47901a-faab-476f-a14b-661c7329b449">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>11</kerndaten_id>
+      <uid>27</uid>
+      <pid>1</pid>
+      <tstamp>1440764951</tstamp>
+      <crdate>1440764951</crdate>
+      <cruser_id>5</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Vulkanische Asche</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Geologie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.436a-c</a3_Heutige_Inventar-Nummer>
+      <a6_Serie>3</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Magmatite: Vulkanite</a7a_Großgruppe_Fachtermini>
+      <a7b_Großgruppe_Allgemein>Erstarrungsgesteine: Ergussgesteine</a7b_Großgruppe_Allgemein>
+      <a9b_Bezeichnung_Neue_Allgemein>Vulkanische Asche</a9b_Bezeichnung_Neue_Allgemein>
+      <a13a_Fundort>Tanaga Island, Andreanof Islands - Aleutian Islands - Aleutians West - Alaska - United States - North and Central America - World</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>51° 47' 00" N, 177° 55' 00" W</a13b_Fundort-Koordinaten>
+      <a13c_Fundort_Getty-ID>7019597</a13c_Fundort_Getty-ID>
+      <a14b>1791-01-01</a14b>
+      <a14ba>1791-12-31</a14ba>
+      <a15a_Erhalten_von>Asch, Georg Thomas von (1729-1807)</a15a_Erhalten_von>
+      <a15aa>cnp00397388</a15aa>
+      <a16a_Erwerbsform>Geschenk</a16a_Erwerbsform>
+      <a17_Bemerkungen_Erwerbsform>1791, Billings-Expedition</a17_Bemerkungen_Erwerbsform>
+      <a21>nein</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <c1_Anzahl_Original-Etiketten>3</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>1</c2_Anzahl_Sekundär-Etiketten>
+      <f1>Die letzte vulkanische Aktivität des 1.806 m hohen Schichtvulkans Tanaga innerhalb des Tanaga-Vulkankomplex in den südwestliche Aleuten, wurde 1914 registriert. Frühere Eruptionen fanden in den Jahren 1763-1770, 1791, 1829 statt. Die Insel Tanaga, südwestliche Aleuten, gehört seit 1867 zum Bundesstaat Alaska, U.S.A. </f1>
+      <f2a_Bearbeiter>A. Böhme, N. Schäfer</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2011-05-07</f2b_Datum_Erstbearbeitung>
+      <f3a>N. Schäfer</f3a>
+      <f3b>2015-08-28</f3b>
+      <f9>Alaska, Aleuten, Tanaga, Lava, Sand, Asch, Billing</f9>
+      
+         <pcdm:Object id="6be74035-7442-4b5e-a86f-8bf5be5a11e0">
+            <pcdm:File id="95">fuploadtxbolonlineKerndaten110GZGHST043604630464vulkanischeAschenFarbskala130563503986.39.jpg</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>11</id>
+         <kerndaten_id>11</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="9be3c774-ff2b-46eb-b87c-d814d7eca44a">
+               <pcdm:File id="63">fuploadtxbolonlinePartII121130GZGHST043604630464vulkanischeAschen130563514736.13.swf</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="62">fuploadtxbolonlinePartII121120GZGHST043604630464vulkanischeAschenFarbskala130563514735.91.tif</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="61">fuploadtxbolonlinePartII121110GZGHST043604630464vulkanischeAschenFarbskala130563514735.7.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="60">fuploadtxbolonlinePartII121100GZGHST0436vulkanischeAschen130563514735.45.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>12</id>
+         <kerndaten_id>11</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.436a</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="f1aa6c0e-536f-46eb-9dc8-cedbd35e5bb0">
+               <pcdm:File id="67">fuploadtxbolonlinePartII181131GZGHST043604630464vulkanischeAschen130563520378.9.swf</pcdm:File>
+               <block_nr>1</block_nr>
+               <pcdm:File id="66">fuploadtxbolonlinePartII181121GZGHST043604630464vulkanischeAschenFarbskala130563520378.69.tif</pcdm:File>
+               <block_nr>1</block_nr>
+               <pcdm:File id="65">fuploadtxbolonlinePartII181111GZGHST043604630464vulkanischeAschenFarbskala130563520378.47.jpg</pcdm:File>
+               <block_nr>1</block_nr>
+               <pcdm:File id="64">fuploadtxbolonlinePartII181101GZGHST0463vulkanischeAschen130563520378.23.jpg</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>18</id>
+         <kerndaten_id>11</kerndaten_id>
+         <block_nr>1</block_nr>
+         <b10a_Objekte_Zustand>mäßig</b10a_Objekte_Zustand>
+         <b12>0.436b</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="e19baf9b-1b86-4772-b2a8-a4aff545c729">
+               <pcdm:File id="71">fuploadtxbolonlinePartII191132GZGHST043604630464vulkanischeAschen130563525860.75.swf</pcdm:File>
+               <block_nr>2</block_nr>
+               <pcdm:File id="70">fuploadtxbolonlinePartII191122GZGHST043604630464vulkanischeAschenFarbskala130563525860.45.tif</pcdm:File>
+               <block_nr>2</block_nr>
+               <pcdm:File id="69">fuploadtxbolonlinePartII191112GZGHST043604630464vulkanischeAschenFarbskala130563525860.19.jpg</pcdm:File>
+               <block_nr>2</block_nr>
+               <pcdm:File id="68">fuploadtxbolonlinePartII191102GZGHST0464vulkanischeAschen130563525859.96.jpg</pcdm:File>
+               <block_nr>2</block_nr>
+            </pcdm:Object>
+         <id>19</id>
+         <kerndaten_id>11</kerndaten_id>
+         <block_nr>2</block_nr>
+         <b10a_Objekte_Zustand>gut</b10a_Objekte_Zustand>
+         <b12>0.436c</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="b9d5d1d4-dac0-4865-98f5-6e92a8687887">
+               <pcdm:File id="37">fuploadtxbolonlinePartIII161100GZGHST0436vulkanischeAschen130563529651.17.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>16</id>
+         <kerndaten_id>11</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Aleutische Ins. Tanaga 1791.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>auf der historischen Aufbewahrung</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="4ff94aaa-d489-486a-98a6-e947298a0fe3">
+               <pcdm:File id="38">fuploadtxbolonlinePartIII211101GZGHST0463vulkanischeAschen130563529651.78.jpg</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>21</id>
+         <kerndaten_id>11</kerndaten_id>
+         <block_nr>1</block_nr>
+         <a10_Text_Original-Etikett>Aleutische Ins. Tanaga 1791.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>auf der historischen Aufbewahrung</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="58c10fbc-8bb7-4862-a71b-ac3d729a804b">
+               <pcdm:File id="39">fuploadtxbolonlinePartIII221102GZGHST0464vulkanischeAschen130563529652.41.jpg</pcdm:File>
+               <block_nr>2</block_nr>
+            </pcdm:Object>
+         <id>22</id>
+         <kerndaten_id>11</kerndaten_id>
+         <block_nr>2</block_nr>
+         <a10_Text_Original-Etikett>Aleutische Ins. Tanaga. 1791.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>auf der historischen Aufbewahrung</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>17</id>
+         <kerndaten_id>11</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>virn. mastix</a11>
+         <d1>auf dem Korken</d1>
+         <d3a>gut</d3a>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Geologie</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="e6119f7a-a96d-46d5-9247-e54815e787fd">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>12</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1386845427</tstamp>
+      <crdate>1386845427</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Schwefel</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Mineralogie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.458a-c</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>VI.1; I.31; 19; 3; Labor-Nr.: 15604; 1.2.14.179</a5_Sekundär-Nummer>
+      <a6_Serie>3 Glasröhrchen</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Elemente: Halbmetalle (Metalloide) und Nichtmetalle: Schwefel-Gruppe</a7a_Großgruppe_Fachtermini>
+      <a9a_Bezeichnung_Neue_Fachtermini>Schwefel [S8]</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>Sulfur, Sulphur</a9c_Synonyma>
+      <a9d_mindat_URI>http://www.mindat.org/min-3826.html</a9d_mindat_URI>
+      <a13a_Fundort>Teide, Pico de, Tenerife - Santa Cruz de Tenerife - Canarias - España - Europe - World</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>28° 16` 24`` N 16° 38` 32`` W</a13b_Fundort-Koordinaten>
+      <a13c_Fundort_Getty-ID>tgn:110757</a13c_Fundort_Getty-ID>
+      <a14a_Sammler>Heberden, Dr. ?</a14a_Sammler>
+      <a14ba>1768-09-18</a14ba>
+      <a15a_Erhalten_von>Banks, Joseph (1743-1820)</a15a_Erhalten_von>
+      <a15aa>cnp01338058</a15aa>
+      <a15ba_Datum_Sammlungseingang_bis>1799-12-31</a15ba_Datum_Sammlungseingang_bis>
+      <a16a_Erwerbsform>Geschenk</a16a_Erwerbsform>
+      <a17_Bemerkungen_Erwerbsform>Banks hat die Objekte von Dr. Heberden (Bruder vom britischen Physiker William Heberden?) auf Madeira erhalten (vermutlich, als er dort im September 1768 mit der Endeavour Station gemacht hat)</a17_Bemerkungen_Erwerbsform>
+      <a18>00027: 624</a18>
+      <a21>nein</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>1</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>8</c2_Anzahl_Sekundär-Etiketten>
+      <f1>Labor-Nr.: 15604 (S-Isotope gemessen im Zentrallabor Göttingen)</f1>
+      <f2a_Bearbeiter>A. Böhme, A. Gehler</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2011-05-06</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2013-12-12</f3b>
+      
+         <pcdm:Object id="50750f41-d18e-48a5-8321-8e257a0d24e0">
+            <pcdm:File id="981">fuploadtxbolonlineKerndaten120GZGHST0458ac2D08138384299144.12.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>12</id>
+         <kerndaten_id>12</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="6b45e702-e040-4cf1-8d87-4fa95a80cb02">
+               <pcdm:File id="3342">fuploadtxbolonlinePartII131200GZGHST0458a2D02138384320749.76.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="3343">fuploadtxbolonlinePartII131210GZGHST0458a2D01138384320772.13.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="3344">fuploadtxbolonlinePartII131220GZGHST0458aSchwefel138384320782.15.swf</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>13</id>
+         <kerndaten_id>12</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b9a>in Glasröhrchen mit Korken</b9a>
+         <b10a_Objekte_Zustand>gut</b10a_Objekte_Zustand>
+         <b11a>nein</b11a>
+         <b12>0.458a</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="91b9895f-fc23-486e-b36a-cb18b09a4af7">
+               <pcdm:File id="3345">fuploadtxbolonlinePartII161201GZGHST0458b2D01138384342364.58.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>16</id>
+         <kerndaten_id>12</kerndaten_id>
+         <block_nr>1</block_nr>
+         <b9a>in Glasröhrchen mit Korken</b9a>
+         <b10a_Objekte_Zustand>gut</b10a_Objekte_Zustand>
+         <b11a>nein</b11a>
+         <b12>0.458b</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="f8ff6337-36ad-4e7e-97c3-cb5635a32195">
+               <pcdm:File id="3346">fuploadtxbolonlinePartII171202GZGHST0458c2D01138384342377.16.JPG</pcdm:File>
+               <block_nr>2</block_nr>
+            </pcdm:Object>
+         <id>17</id>
+         <kerndaten_id>12</kerndaten_id>
+         <block_nr>2</block_nr>
+         <b9a>in Glasröhrchen mit Korken</b9a>
+         <b10a_Objekte_Zustand>gut</b10a_Objekte_Zustand>
+         <b11a>nein</b11a>
+         <b12>0.458c</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="b0eea83a-2451-4204-88f1-00cb375d9d58">
+               <pcdm:File id="413">fuploadtxbolonlinePartIII171200GZGHST0458ac2D02138384349339.11.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="414">fuploadtxbolonlinePartIII171210GZGHST0458ac2D03138384349352.23.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>17</id>
+         <kerndaten_id>12</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>vom Pic auf Teneriffa.  v. Sr Joseph Banks der ihn vom  Dr Heberden auf Madera erhalten.  v. Hawkesworth vol. II. [p...] 13.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert, rückseitig auf einem Sekundäretikett klebend</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>gut</c6a>
+         <c7a>nein</c7a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>18</id>
+         <kerndaten_id>12</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+         <d3a>sehr gut</d3a>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Mineralogie</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="862d9d4e-ac08-438f-9cae-5830e00ab504">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>13</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1393598335</tstamp>
+      <crdate>1393598335</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Graphit</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Mineralogie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.459</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>5; 13; 1.2.7.48</a5_Sekundär-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Elemente: Halbmetalle (Metalloide) und Nichtmetalle: Graphit-Gruppe</a7a_Großgruppe_Fachtermini>
+      <a8_Bezeichnung_Original>Graphit</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>Graphit [C]</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9d_mindat_URI>http://www.mindat.org/min-1740.html</a9d_mindat_URI>
+      <a13a_Fundort>Chukotka Peninsula, Chukotskiy Avtonomnyy Okrug - Rossiya republic - Rossiya - Asia - World</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>66° 00' 00" N, 175° 00' 00" E</a13b_Fundort-Koordinaten>
+      <a13c_Fundort_Getty-ID>tgn:101269</a13c_Fundort_Getty-ID>
+      <a14ba>1797-12-31</a14ba>
+      <a15a_Erhalten_von>Asch, Georg Thomas von (1729-1807)</a15a_Erhalten_von>
+      <a15aa>cnp00397388</a15aa>
+      <a15ba_Datum_Sammlungseingang_bis>1797-12-31</a15ba_Datum_Sammlungseingang_bis>
+      <a16a_Erwerbsform>Geschenk</a16a_Erwerbsform>
+      <a18>00026: 637f; 00027: 631f; 00029: 654f; 00030: 662f; 00031: 672f; 00032: 681f; 00033: 563f; 00034: 562f</a18>
+      <a21>nein</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>2</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>6</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>A. Böhme, A. Gehler</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2011-05-07</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2014-02-28</f3b>
+      
+         <pcdm:Object id="7bebb694-9795-41bb-a066-268d752db8b1">
+            <pcdm:File id="384">fuploadtxbolonlineKerndaten130GZGHST04592D07131480500108.91.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>13</id>
+         <kerndaten_id>13</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="512d74a6-cb54-4161-879a-695f6b407b12">
+               <pcdm:File id="3946">fuploadtxbolonlinePartII141300GZGHST0459Graphit139359874783.19.swf</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="3941">fuploadtxbolonlinePartII141300GZGHST04592D07139359852980.63.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="1095">fuploadtxbolonlinePartII141300GZGHST04592D22133224119018.23.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>14</id>
+         <kerndaten_id>13</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b2>Kohlenstoff (Graphit)</b2>
+         <b5>von den Tschuktschen als Schminke genutzt</b5>
+         <b6>grau, metallisch glänzend</b6>
+         <b7a>H=18 [mm] B=26 [mm] L=55 [mm]</b7a>
+         <b8>G=16.8 [g]</b8>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b11a>nein</b11a>
+         <b12>0.459</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="86e48c30-79b0-485a-a26c-2cc973219f1d">
+               <pcdm:File id="166">fuploadtxbolonlinePartIII181300GZGHST04592D19133224134133.48.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>18</id>
+         <kerndaten_id>13</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Graphit vom Tschukotskoinaß dessen sich die Tschuktschen u. ihre Nachbarn (auch am N. Westl. America) zur Schminke bedienen. v. Bar. von Asch.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c4>B=35 [mm] L=44 [mm]</c4>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>gut</c6a>
+         <c7a>nein</c7a>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="f8486701-1cb9-4218-a453-6d3bf23eabad">
+               <pcdm:File id="93">fuploadtxbolonlinePartIII201301GZGHST04592D10131480509336.48.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>20</id>
+         <kerndaten_id>13</kerndaten_id>
+         <block_nr>1</block_nr>
+         <a10_Text_Original-Etikett>Tschukotz- koinaß.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Stück geklebt</c3_Art_Original-Etikett>
+         <c4>B=8 [mm] L=16 [mm]</c4>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>gut</c6a>
+         <c7a>nein</c7a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>19</id>
+         <kerndaten_id>13</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Mineralogie</kategorie>
+      </taxons>
+   </pcdm:Object>
+    <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="f985fedf-25eb-41ca-8374-808f4d1a1585">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>14</kerndaten_id>
+      <uid>27</uid>
+      <pid>1</pid>
+      <tstamp>1452608402</tstamp>
+      <crdate>1452608402</crdate>
+      <cruser_id>5</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Chalkopyrit</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Mineralogie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.435</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>2.3.8.145; 22.; 2.</a5_Sekundär-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Sulfide und Sulfosalze: Metallsulfide: Chalkopyrit-Gruppe</a7a_Großgruppe_Fachtermini>
+      <a8_Bezeichnung_Original>Kupferkies, Gelbkupfererz, Kupfereisenerz</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>Chalkopyrit [CuFeS2]</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>Kupferkies</a9c_Synonyma>
+      <a9d_mindat_URI>http://www.mindat.org/min-955.html</a9d_mindat_URI>
+      <a13a_Fundort>St. Agnes, Cornwall - England - United Kingdom - Europe - World</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>50° 18' 00" N, 005° 13' 00" W</a13b_Fundort-Koordinaten>
+      <a13c_Fundort_Getty-ID>1030489</a13c_Fundort_Getty-ID>
+      <a14ba>1791-12-31</a14ba>
+      <a15a_Erhalten_von>Crichton, Alexander (1763-1856)</a15a_Erhalten_von>
+      <a15aa>cnp01438867</a15aa>
+      <a15b_Datum_Sammlungseingang_von>1791-01-01</a15b_Datum_Sammlungseingang_von>
+      <a15ba_Datum_Sammlungseingang_bis>1791-12-31</a15ba_Datum_Sammlungseingang_bis>
+      <a16a_Erwerbsform>Geschenk</a16a_Erwerbsform>
+      <a18>00027: 650</a18>
+      <a21>nein</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>2</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>4</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>A. Böhme, A. Gehler, N. Schäfer</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2011-05-09</f2b_Datum_Erstbearbeitung>
+      <f3a>N. Schäfer</f3a>
+      <f3b>2016-01-12</f3b>
+      
+         <pcdm:Object id="f498c254-a8ac-4e38-a8ca-9f7d951e5207">
+            <pcdm:File id="381">fuploadtxbolonlineKerndaten140GZGHST04352D06131480435267.99.JPG</pcdm:File>
+            <pcdm:File id="382">fuploadtxbolonlineKerndaten141GZGHST04352D09131480435268.25.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>14</id>
+         <kerndaten_id>14</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="01d653cf-b867-4144-9bd5-adff5cd4909e">
+               <pcdm:File id="41">fuploadtxbolonlinePartII201400GZGHST0435ChalkopyritFarbskala130493570022.39.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="42">fuploadtxbolonlinePartII201410GZGHST0435ChalkopyritFarbskala130493570022.64.tif</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="43">fuploadtxbolonlinePartII201420GZGHST0435Chalkopyrit130493570022.86.swf</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>20</id>
+         <kerndaten_id>14</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.435</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="bc2bbd77-966e-4cb9-acbc-021a0ef99aae">
+               <pcdm:File id="88">fuploadtxbolonlinePartIII231400GZGHST04352D07131480444550.33.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>23</id>
+         <kerndaten_id>14</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>v. St Agnes in Cornwall neuer Anbruch [?]
+        1791.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Stück geklebt</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="4d33e544-d892-476a-b2d6-1b61315dba4c">
+               <pcdm:File id="89">fuploadtxbolonlinePartIII241401GZGHST04352D16131480444550.96.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>24</id>
+         <kerndaten_id>14</kerndaten_id>
+         <block_nr>1</block_nr>
+         <a10_Text_Original-Etikett>                Kupferkies in großen doppeldreyseitigen Pyramiden mit quergestreiften Flächen und zwischenstehenden dünnen Quarzcrystallen.
+             v. Hrn Dr Crichton 1791.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>20</id>
+         <kerndaten_id>14</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+         <d3a>sehr gut</d3a>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Mineralogie</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="6a50c265-4cf9-4783-a814-21a8a7bc0357">
+      <pcdm:AdministrativeSet id="part0">
+         <kerndaten_id>15</kerndaten_id>
+         <uid>20</uid>
+         <pid>1</pid>
+         <tstamp>1386844643</tstamp>
+         <crdate>1386844643</crdate>
+         <cruser_id>1</cruser_id>
+         <a0_Zusammenfassende_Bezeichnung>Kieselsinter</a0_Zusammenfassende_Bezeichnung>
+         <a1_Zuordnung>Geologie</a1_Zuordnung>
+         <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+         <a3_Heutige_Inventar-Nummer>0.429; 0.462</a3_Heutige_Inventar-Nummer>
+         <a5_Sekundär-Nummer>216; XXXIII c) 216; 36</a5_Sekundär-Nummer>
+         <a6_Serie>2</a6_Serie>
+         <a7a_Großgruppe_Fachtermini>Sedimentite: Kieselgesteine</a7a_Großgruppe_Fachtermini>
+         <a8_Bezeichnung_Original>Kieselsinter</a8_Bezeichnung_Original>
+         <a9a_Bezeichnung_Neue_Fachtermini>Kieselsinter</a9a_Bezeichnung_Neue_Fachtermini>
+         <a9c_Synonyma>Opalsinter</a9c_Synonyma>
+         <a13a_Fundort>Osernoi (Fluss), Kamtschatka, Russland</a13a_Fundort>
+         <a13d>6002931</a13d>
+         <a14b>1791-01-01</a14b>
+         <a14ba>1791-12-31</a14ba>
+         <a15a_Erhalten_von>Asch, Georg Thomas von (1729-1807)</a15a_Erhalten_von>
+         <a15aa>cnp00397388</a15aa>
+         <a15b_Datum_Sammlungseingang_von>1791-01-01</a15b_Datum_Sammlungseingang_von>
+         <a15ba_Datum_Sammlungseingang_bis>1796-12-31</a15ba_Datum_Sammlungseingang_bis>
+         <a16a_Erwerbsform>Geschenk</a16a_Erwerbsform>
+         <a17_Bemerkungen_Erwerbsform>1791 bei Billings-Expedition gesammelt?</a17_Bemerkungen_Erwerbsform>
+         <a18>00027: 531</a18>
+         <a21>nein</a21>
+         <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+         <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+         <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+         <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </a28_Rechtehinweise>
+         <c1_Anzahl_Original-Etiketten>3</c1_Anzahl_Original-Etiketten>
+         <c2_Anzahl_Sekundär-Etiketten>9</c2_Anzahl_Sekundär-Etiketten>
+         <f2a_Bearbeiter>A. Böhme, A. Gehler</f2a_Bearbeiter>
+         <f2b_Datum_Erstbearbeitung>2011-05-09</f2b_Datum_Erstbearbeitung>
+         <f3a>A. Gehler</f3a>
+         <f3b>2013-12-12</f3b>         
+            <pcdm:Object id="3242ef82-3e2e-4660-bee2-7c473388caf7">
+               <pcdm:File id="441">fuploadtxbolonlineKerndaten150GZGHST04292D07132084222418.79.JPG</pcdm:File>
+               <pcdm:File id="442">fuploadtxbolonlineKerndaten151GZGHST04292D10132084222423.56.JPG</pcdm:File>
+               <pcdm:File id="443">fuploadtxbolonlineKerndaten150GZGHST04622D02132084236231.62.JPG</pcdm:File>
+               <pcdm:File id="444">fuploadtxbolonlineKerndaten151GZGHST04622D04132084236233.26.JPG</pcdm:File>
+            </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">     
+            <pcdm:Object id="c1f254d8-3093-430f-9893-160ef15a66e8">
+               <pcdm:File id="46">fuploadtxbolonlinePartI151500GZGHST042904622D02132084250811.92.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>15</id>
+         <kerndaten_id>15</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>216.</a4_Original-Nummer>
+         <e1>auf isoliertem Etikett</e1>
+         <e3>Handschrift von Baron von Asch</e3>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+            <pcdm:Object id="bf624404-bacf-438e-aaa4-fbfd98c41964">
+               <pcdm:File id="47">fuploadtxbolonlinePartI161501GZGHST042904622D02132084250814.12.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>16</id>
+         <kerndaten_id>15</kerndaten_id>
+         <block_nr>1</block_nr>
+         <a4_Original-Nummer>XXXIII c) 216.</a4_Original-Nummer>
+         <e1>auf isoliertem Etikett</e1>
+         <e3>Handschrift von Blumenbach</e3>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+            <pcdm:Object id="23d10494-b2a6-425a-bfe4-af5e860e05e2">
+               <pcdm:File id="48">fuploadtxbolonlinePartII211510GZGHST0429KieselsinterFarbskala130494541030.74.tif</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="47">fuploadtxbolonlinePartII211500GZGHST0429KieselsinterFarbskala130494541030.52.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="49">fuploadtxbolonlinePartII211520GZGHST0429Kieselsinter130494541030.95.swf</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="626">fuploadtxbolonlinePartII211500GZGHST04292D06132084231248.89.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>21</id>
+         <kerndaten_id>15</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.429</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+    
+            <pcdm:Object id="b6a90048-fd70-46a1-a776-6607d7a49d0d">
+               <pcdm:File id="627">fuploadtxbolonlinePartII221501GZGHST04622D01132084231252.72.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+               <pcdm:File id="628">fuploadtxbolonlinePartII221511GZGHST04622D03132084231254.42.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>22</id>
+         <kerndaten_id>15</kerndaten_id>
+         <block_nr>1</block_nr>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.462</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="c5467208-f02b-487a-b61e-1d4d949da2b6">
+               <pcdm:File id="99">fuploadtxbolonlinePartIII251500GZGHST042904622D02132084262602.93.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>25</id>
+         <kerndaten_id>15</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>No 216 kalkartiger Stalagmit von der heißen quelle am Oser- noi Fluß in Kamtschatka</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c5>Handschrift von Baron von Asch?</c5>
+         <c6a>sehr gut</c6a>
+     </pcdm:AdministrativeSet>
+<pcdm:AdministrativeSet id="part3">
+    
+            <pcdm:Object id="0996ff92-bc6c-4461-950e-cde07703791d">
+               <pcdm:File id="100">fuploadtxbolonlinePartIII261501GZGHST042904622D02132084262605.28.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>26</id>
+         <kerndaten_id>15</kerndaten_id>
+         <block_nr>1</block_nr>
+         <a10_Text_Original-Etikett>Kieselsinter aus den heissen Quellen auf Kamtschatka Asch XXXIII c) 216.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="11680e26-14d0-4891-9591-1bfedbefea82">
+               <pcdm:File id="101">fuploadtxbolonlinePartIII271502GZGHST042904622D03132084262607.53.JPG</pcdm:File>
+               <block_nr>2</block_nr>
+            </pcdm:Object>
+         <id>27</id>
+         <kerndaten_id>15</kerndaten_id>
+         <block_nr>2</block_nr>
+         <a10_Text_Original-Etikett>Kieselsinter 1796 v Asch</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>21</id>
+         <kerndaten_id>15</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+         <d3a>sehr gut</d3a>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Geologie</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="ab8b0969-f067-4883-9d78-9017602868d7">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>16</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1386845372</tstamp>
+      <crdate>1386845372</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Lapislazuli</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Mineralogie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.421</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>6.; 2.; 9.</a5_Sekundär-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Mineralgemisch</a7a_Großgruppe_Fachtermini>
+      <a8_Bezeichnung_Original>Lasurstein, Lapis lazuli, Sapphirus der Alten</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>Lapislazuli (Mineralgemisch mit den Hauptgemengteilen: Lasurit [(Na,Ca)8(AlSiO4)6(S,SO4,Cl2)], Pyrit [FeS]2 und Calcit [CaCO3]) </a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>Lasurstein, Lapis Lazuli, Lapis</a9c_Synonyma>
+      <a9d_mindat_URI>http://www.mindat.org/min-2330.html</a9d_mindat_URI>
+      <a13a_Fundort>Baikal-See, Rossiya - Asia - World</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>53° 00' 00" N, 107° 40' 00" E</a13b_Fundort-Koordinaten>
+      <a13c_Fundort_Getty-ID>1115510</a13c_Fundort_Getty-ID>
+      <a14ba>1799-12-31</a14ba>
+      <a15a_Erhalten_von>Asch, Georg Thomas von (1729-1807)</a15a_Erhalten_von>
+      <a15aa>cnp00397388</a15aa>
+      <a15ba_Datum_Sammlungseingang_bis>1799-12-31</a15ba_Datum_Sammlungseingang_bis>
+      <a16a_Erwerbsform>Geschenk</a16a_Erwerbsform>
+      <a17_Bemerkungen_Erwerbsform>es ist anzunehmen, dass Blumenbach das Stück 1799 bereits vor lag</a17_Bemerkungen_Erwerbsform>
+      <a18>00027: 545</a18>
+      <a21>nein</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>1</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>4</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>A. Böhme, A. Gehler</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2011-05-09</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2013-12-12</f3b>
+      
+         <pcdm:Object id="9868787e-4d26-4977-bbfc-1689f8479180">
+            <pcdm:File id="378">fuploadtxbolonlineKerndaten160GZGHST04212D05131480350110.35.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>17</id>
+         <kerndaten_id>16</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="fa48f604-bc4b-49fc-adab-02c17401e554">
+               <pcdm:File id="50">fuploadtxbolonlinePartII231600GZGHST0421LasursteinFarbskala130495190808.7.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="51">fuploadtxbolonlinePartII231610GZGHST0421LasursteinFarbskala130495190808.97.tif</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="52">fuploadtxbolonlinePartII231620GZGHST0421Lasurstein130495190809.19.swf</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="630">fuploadtxbolonlinePartII231600GZGHST04212D10132084302578.2.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>23</id>
+         <kerndaten_id>16</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.421</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="06e354a0-cc72-4b25-9e4a-0e4566b39cea">
+               <pcdm:File id="85">fuploadtxbolonlinePartIII281600GZGHST04212D07131480358654.13.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>28</id>
+         <kerndaten_id>16</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Baikal</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Stück geklebt</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>22</id>
+         <kerndaten_id>16</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+         <d3a>sehr gut</d3a>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Mineralogie</kategorie>
+      </taxons>
+   </pcdm:Object>
+    <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="ce6db02a-000d-4341-9809-7420ff31f43f">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>17</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1386844986</tstamp>
+      <crdate>1386844986</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Schriftgranit</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Geologie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.426</a3_Heutige_Inventar-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Magmatite: Plutonite</a7a_Großgruppe_Fachtermini>
+      <a7b_Großgruppe_Allgemein>Erstarrungsgesteine: Tiefengesteine</a7b_Großgruppe_Allgemein>
+      <a8_Bezeichnung_Original>Portsoy Granit, pierre graphique</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>Schriftgranit</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>Runengranit, Runit</a9c_Synonyma>
+      <a12a_Datierung_von>Ediacarium (542.0 - 635)</a12a_Datierung_von>
+      <a12aa_Datierung_bis>Ediacarium (542.0 - 635)</a12aa_Datierung_bis>
+      <a12b_Bemerkungen_zur_Datierung>ca. 600 Millionen Jahre (nach Strachan et. al 2002)</a12b_Bemerkungen_zur_Datierung>
+      <a12c>U-Pb an Zirkonen</a12c>
+      <a12d>nach Strachan et. al 2002</a12d>
+      <a13a_Fundort>Portsoy, Aberdeenshire - Scotland - United Kingdom - Europe - World</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>57° 41' 00" N, 002° 41' 00" W</a13b_Fundort-Koordinaten>
+      <a13c_Fundort_Getty-ID>1051011</a13c_Fundort_Getty-ID>
+      <a14ba>1799-12-31</a14ba>
+      <a15ba_Datum_Sammlungseingang_bis>1799-12-31</a15ba_Datum_Sammlungseingang_bis>
+      <a16a_Erwerbsform>vermutlich Geschenk</a16a_Erwerbsform>
+      <a17_Bemerkungen_Erwerbsform>es ist anzunehmen, dass Blumenbach das Stück 1799 bereits vor lag</a17_Bemerkungen_Erwerbsform>
+      <a18>00027: 557</a18>
+      <a21>nein</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>1</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>0</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>A. Böhme, A. Gehler</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2011-05-09</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2013-12-12</f3b>
+      
+         <pcdm:Object id="e1e58412-775a-47ff-aa20-410466394888">
+            <pcdm:File id="324">fuploadtxbolonlineKerndaten170GZGHST04262D09131194591458.43.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>18</id>
+         <kerndaten_id>17</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="bbcb4828-2b3d-43a7-8a39-6f17fb5f0714">
+               <pcdm:File id="120">fuploadtxbolonlinePartII241700GZGHST0426SchriftgranitFarbskala130805148599.79.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="121">fuploadtxbolonlinePartII241710GZGHST0426SchriftgranitFarbskala130805148600.04.tif</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="122">fuploadtxbolonlinePartII241720GZGHST0426Schriftgranit130805148600.28.swf</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>24</id>
+         <kerndaten_id>17</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.426</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="a3e91a2e-9326-4293-8549-4dcd07a6c4a4">
+               <pcdm:File id="67">fuploadtxbolonlinePartIII291700GZGHST04262D05131194597044.84.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="68">fuploadtxbolonlinePartIII291700GZGHST04262D01131194603653.7.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>29</id>
+         <kerndaten_id>17</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Portsoy Granit Aberdeenshire</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Stück geklebt</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>23</id>
+         <kerndaten_id>17</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+         <d3a>sehr gut</d3a>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Geologie</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="9aeabb81-89a5-4795-9e8e-6f1921e657eb">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>18</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1384163401</tstamp>
+      <crdate>1384163401</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Baryt (auf Fluorit)</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Mineralogie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.449</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>3.1.19.443; 3; 20.</a5_Sekundär-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Sulfate: Baryt-Gruppe; Halide: Fluorit-Gruppe</a7a_Großgruppe_Fachtermini>
+      <a8_Bezeichnung_Original>Nierenförmiger Blättricher Schwerspath mit drusiger Oberfläche auf blaulichen Flussspath</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>Baryt [BaSO4]; Fluorit [CaF2]</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9b_Bezeichnung_Neue_Allgemein>Schwerspat [BaSO4]; Flußspat [CaF2]</a9b_Bezeichnung_Neue_Allgemein>
+      <a9d_mindat_URI>http://www.mindat.org/min-549.html; http://www.mindat.org/min-1576.html</a9d_mindat_URI>
+      <a13a_Fundort>Derbyshire, England - United Kingdom - Europe - World</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>53° 01' 00" N, 001° 32' 00" W</a13b_Fundort-Koordinaten>
+      <a13c_Fundort_Getty-ID>7008118</a13c_Fundort_Getty-ID>
+      <a16a_Erwerbsform>vermutlich Geschenk</a16a_Erwerbsform>
+      <a18>00027: 594f, 600ff</a18>
+      <a21>nein</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>2</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>3</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>A. Böhme, A. Gehler</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2011-05-10</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2013-11-11</f3b>
+      <f9>Fluorit, Baryt, Flußspat, Flussspat, Schwerspat, Derbyshire</f9>
+      
+         <pcdm:Object id="a01be5cf-3904-4dc1-8505-7f5e0daa1991">
+            <pcdm:File id="383">fuploadtxbolonlineKerndaten180GZGHST04492D09131480465874.75.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>19</id>
+         <kerndaten_id>18</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="95563faa-5f62-44f0-a55d-087859398a24">
+               <pcdm:File id="53">fuploadtxbolonlinePartII251800GZGHST0449FluoritBarytFarbskala130501199105.42.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="54">fuploadtxbolonlinePartII251810GZGHST0449FluoritBarytFarbskala130501199105.65.tif</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="55">fuploadtxbolonlinePartII251820GZGHST0449FluoritBaryt130501199105.86.swf</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="56">fuploadtxbolonlinePartII251830GZGHST0449FluoritBaryt130501199106.06.gif</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>25</id>
+         <kerndaten_id>18</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.449</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="823ccc42-93ba-4ace-9695-53f6a32e334e">
+               <pcdm:File id="90">fuploadtxbolonlinePartIII301800GZGHST04492D02131480470458.33.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>30</id>
+         <kerndaten_id>18</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Nierenförmiger Blättricher Schwerspath mit drusiger Oberfläche auf blaulichen Flussspath.
+            aus Derbyshire</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="963b594d-f9e9-4eec-98a2-f58c74fe73a5">
+               <pcdm:File id="91">fuploadtxbolonlinePartIII311801GZGHST04492D07131480470458.93.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>31</id>
+         <kerndaten_id>18</kerndaten_id>
+         <block_nr>1</block_nr>
+         <a10_Text_Original-Etikett>Derbyshire</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Stück geklebt</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>24</id>
+         <kerndaten_id>18</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+         <d3a>sehr gut</d3a>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Mineralogie</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="24181833-c0e2-4525-9ba2-8af1fd90046d">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>19</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1440522655</tstamp>
+      <crdate>1440522655</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Chaetitider Schwamm (&lt;i&gt;Chaetetis radians&lt;/i&gt;?), aufgewachsen auf einer rugosen Koralle (&lt;i&gt;Petalaxis&lt;/i&gt; sp.?)</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Palaeozoologie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.446</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>40.a; Orig. 383; 101-59; 32; 1</a5_Sekundär-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Porifera: Demospongea: Chaetitidae (und Cnidaria: Anthozoa: Rugosa: Petalaxidae)</a7a_Großgruppe_Fachtermini>
+      <a7b_Großgruppe_Allgemein>Schwämme: Gemeine Schwämme: Chaetitidae (und Hohltiere: Blumentiere: Runzelkorallen: Petalaxidae)</a7b_Großgruppe_Allgemein>
+      <a8_Bezeichnung_Original>Foßile Madrepore</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>Chaetitider Schwamm (&lt;i&gt;Chaetetis radians&lt;/i&gt;?), aufgewachsen auf einer rugosen Koralle (&lt;i&gt;Petalaxis&lt;/i&gt; sp.?)</a9a_Bezeichnung_Neue_Fachtermini>
+      <a12a_Datierung_von>Karbon (299.0 - 359.2)</a12a_Datierung_von>
+      <a12aa_Datierung_bis>Karbon (299.0 - 359.2)</a12aa_Datierung_bis>
+      <a13a_Fundort>Mista (Fluss) bei Borowitschi (Borovi?i), Oblast Nowgorod, Russland</a13a_Fundort>
+      <a13d>7010117</a13d>
+      <a14ba>1797-12-21</a14ba>
+      <a15a_Erhalten_von>Asch, Georg Thomas von (1729-1807)</a15a_Erhalten_von>
+      <a15aa>cnp00397388</a15aa>
+      <a15b_Datum_Sammlungseingang_von>1797-12-21</a15b_Datum_Sammlungseingang_von>
+      <a16a_Erwerbsform>Geschenk</a16a_Erwerbsform>
+      <a17_Bemerkungen_Erwerbsform>Aschischer Transport vom 21. Dezember 1797</a17_Bemerkungen_Erwerbsform>
+      <a18>00029: 705f</a18>
+      <a21>vielleicht</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>1</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>7</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>A. Böhme, M. Reich, A. Gehler</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2011-05-10</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2015-08-24</f3b>
+      
+         <pcdm:Object id="100e493d-a544-47de-b1a0-c7c8bce012b9">
+            <pcdm:File id="651">fuploadtxbolonlineKerndaten190GZGHST04462D14134129503002.88.JPG</pcdm:File>
+            <pcdm:File id="652">fuploadtxbolonlineKerndaten191GZGHST04462D18134129503017.17.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+     
+            <pcdm:Object id="7139d9bc-436b-4392-8a07-438f5c1be59e">
+               <pcdm:File id="121">fuploadtxbolonlinePartI201900GZGHST04462D03134129511671.63.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>20</id>
+         <kerndaten_id>19</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>N. 40.a.</a4_Original-Nummer>
+         <e1>isoliert (Rückseite vom Etikett)</e1>
+         <e3>Handschrift von Baron von Asch</e3>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="ac9b4813-af6a-4452-b07a-727b5ae3dfef">
+               <pcdm:File id="57">fuploadtxbolonlinePartII261900GZGHST0446ChaetetisradiansFarbskala130501604985.99.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="58">fuploadtxbolonlinePartII261910GZGHST0446ChaetetisradiansFarbskala130501604986.22.tif</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="59">fuploadtxbolonlinePartII261920GZGHST0446Chaetetisradians130501604986.44.swf</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="1390">fuploadtxbolonlinePartII261900GZGHST04462D11134129508193.57.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>26</id>
+         <kerndaten_id>19</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.446</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="5729fa89-3246-47b2-a8d3-caf2a518aef1">
+               <pcdm:File id="217">fuploadtxbolonlinePartIII321900GZGHST04462D02134129516126.62.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="218">fuploadtxbolonlinePartIII321910GZGHST04462D03134129516136.15.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>32</id>
+         <kerndaten_id>19</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Foßile Madrepore aus dem Boro- witzkischen Kraise, am Flu-
+ße Mista[Rückseite:]  Aschischer Transport vom 21. December 1797. N. 40.a.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c5>Handschrift von Baron von Asch</c5>
+         <c6a>sehr gut</c6a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>25</id>
+         <kerndaten_id>19</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+         <d3a>sehr gut</d3a>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Palaeozoologie</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="5dbe48a5-d95b-462b-8a48-f304fd240e87">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>20</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1440708194</tstamp>
+      <crdate>1440708194</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Steinbach [Grimma] (Stein-Eisen-Meteorit)</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Meteoritenkunde</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.029</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>250; 1.41.8.9</a5_Sekundär-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7b_Großgruppe_Allgemein>Meteorite: Eisenmeteorite: Siderophyre</a7b_Großgruppe_Allgemein>
+      <a8_Bezeichnung_Original>gediegen Eisen</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>feiner Oktaedrit mit Silikateinschlüssen, IVA-AN</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>Breitenbach; Eibenstock; Gotha; Grimma; Johanngeorgenstadt; Rittersgrün </a9c_Synonyma>
+      <a9d_mindat_URI>http://www.lpi.usra.edu/meteor/metbull.php?code=23722</a9d_mindat_URI>
+      <a12a_Datierung_von>Hadaikum (4000 - 4600)</a12a_Datierung_von>
+      <a12aa_Datierung_bis>Hadaikum (4000 - 4600)</a12aa_Datierung_bis>
+      <a12e>Fund ohne Fallbeobachtung</a12e>
+      <a12f>die Masse von Grimma war die erste von insgesamt drei gefundenen Stücken des gleichen Meteoritenfalls, spätere Funde sind als Massen von Rittersgrün bzw. Breitenbach bekannt</a12f>
+      <a12h>1723-12-31</a12h>
+      <a12i>erste gesicherte Erwähnung 1751, Fund vermutlich aber vor 1724</a12i>
+      <a13a_Fundort>Steinbach, Sachsen, Deutschland</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>50° 30` 0`` N 12° 30` 0`` W</a13b_Fundort-Koordinaten>
+      <a13d>7003686</a13d>
+      <a14ba>1723-12-31</a14ba>
+      <a15a_Erhalten_von>Königliche Bibliothek zu Hannover</a15a_Erhalten_von>
+      <a15b_Datum_Sammlungseingang_von>1777-01-01</a15b_Datum_Sammlungseingang_von>
+      <a15ba_Datum_Sammlungseingang_bis>1777-12-31</a15ba_Datum_Sammlungseingang_bis>
+      <a16a_Erwerbsform>Ankauf</a16a_Erwerbsform>
+      <a17_Bemerkungen_Erwerbsform>aus der Sammlung Christoph Andreas Schlüter (1668-1743), die 1777 aus Hannover in die Sammlung des Academischen Museums gelangte</a17_Bemerkungen_Erwerbsform>
+      <a21>nein</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG</a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>2</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>7</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>A. Böhme, A. Gehler</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2011-05-10</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2015-08-27</f3b>
+      
+         <pcdm:Object id="02537833-c68b-4417-9490-0cb2614ac4f2">
+            <pcdm:File id="422">fuploadtxbolonlineKerndaten200GZGHST00292D04132075814459.55.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>21</id>
+         <kerndaten_id>20</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+         <e4a>sehr gut</e4a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="cea39f9d-8e1f-4587-ab65-9a868d81009c">
+               <pcdm:File id="118">fuploadtxbolonlinePartII272010GZGHST0029EisenmeteoritFarbskala130804817244.28.tif</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="119">fuploadtxbolonlinePartII272020GZGHST0029Eisenmeteorit130804817246.4.swf</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="117">fuploadtxbolonlinePartII272000GZGHST0029EisenmeteoritFarbskala130804817244.03.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="619">fuploadtxbolonlinePartII272000GZGHST00292D07132075865222.08.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>27</id>
+         <kerndaten_id>20</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.029</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="0abd36b5-0388-4824-8084-b9e00026c783">
+               <pcdm:File id="122">fuploadtxbolonlinePartIII332000GZGHST0029Etikett132792189542.68.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>33</id>
+         <kerndaten_id>20</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>gediegen Eisen v. JohannGeorgenstadt aus der Schlüterschen Saml.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+     </pcdm:AdministrativeSet>
+<pcdm:AdministrativeSet id="part3">
+    
+            <pcdm:Object id="0da4fca9-7185-4989-8996-89e3c33b2888">
+               <pcdm:File id="42">fuploadtxbolonlinePartIII472001GZGHST0029Eisenmeteorit006130675361545.53.jpg</pcdm:File>
+               <block_nr>1</block_nr>
+               <pcdm:File id="95">fuploadtxbolonlinePartIII472001GZGHST00292D06132075821708.64.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>47</id>
+         <kerndaten_id>20</kerndaten_id>
+         <block_nr>1</block_nr>
+         <a10_Text_Original-Etikett>Joh. Georg stadt.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Objekt geklebt</c3_Art_Original-Etikett>
+         <c6a>gut</c6a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>26</id>
+         <kerndaten_id>20</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Meteoritenkunde</kategorie>
+      </taxons>
+   </pcdm:Object>
+    <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="dfd9747a-ee0a-48ae-bc16-932add942c40">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>21</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1420752212</tstamp>
+      <crdate>1420752212</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Krasnojarsk (Stein-Eisen-Meteorit)</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Meteoritenkunde</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.430</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>455; 1733; 2.20.7.13</a5_Sekundär-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Meteorite: Stein-Eisen-Meteorite: Pallasite</a7a_Großgruppe_Fachtermini>
+      <a7b_Großgruppe_Allgemein>Meteorite: Stein-Eisen-Meteorite: Pallasite</a7b_Großgruppe_Allgemein>
+      <a9a_Bezeichnung_Neue_Fachtermini>Pallasit (PAL)</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>Berg Emir; Emir; Kemis; Kemiz; Krasnoiarsk; Krasnoyarsk; Malyi Altai; Malyi Altaj; Medvedeva; Medwedewa; Mount Kemis; Pallaseisen; Pallace Iron; Pallas Iron</a9c_Synonyma>
+      <a9d_mindat_URI>http://www.lpi.usra.edu/meteor/metbull.php?code=12356</a9d_mindat_URI>
+      <a12a_Datierung_von>Hadaikum (4000 - 4600)</a12a_Datierung_von>
+      <a12aa_Datierung_bis>Hadaikum (4000 - 4600)</a12aa_Datierung_bis>
+      <a12b_Bemerkungen_zur_Datierung>Fund im Jahr 1772</a12b_Bemerkungen_zur_Datierung>
+      <a13a_Fundort>Mikhavlova [wenige km NW von], Krasnoyarsk territory - Rossiya republic - Rossiya - Asia - World</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>54° 54` 0`` N 91° 48` 0`` E</a13b_Fundort-Koordinaten>
+      <a14a_Sammler>Pallas, Peter Simon (1741-1811)</a14a_Sammler>
+      <a14aa>cnp01318105</a14aa>
+      <a14b>1772-01-01</a14b>
+      <a14ba>1772-12-31</a14ba>
+      <a15a_Erhalten_von>Asch, Georg Thomas von (1729-1807)</a15a_Erhalten_von>
+      <a15aa>cnp00397388</a15aa>
+      <a15b_Datum_Sammlungseingang_von>1772-01-01</a15b_Datum_Sammlungseingang_von>
+      <a15ba_Datum_Sammlungseingang_bis>1780-12-31</a15ba_Datum_Sammlungseingang_bis>
+      <a16a_Erwerbsform>Geschenk</a16a_Erwerbsform>
+      <a17_Bemerkungen_Erwerbsform>Die gut 700 Kilgramm schwere Eisenmasse von Krasnojarsk wurde 1749 durch den Bauern J. Medwedef auf einem Berg, etwa 230 Kilometer südlich von Krasnojarsk zwischen zwei Nebenflüssen des Jenisei aufgefunden. Im Jahre 1772 erhielt der deutsche Forschungsreisende Peter Simon Pallas (1741-1811), welcher auch einige Semester in Göttingen studiert hatte, über Umwegen Proben dieser Eisenmasse. Er ließ ganze Masse nach Krasnojarsk bringen, sowie etwas später nach St. Petersburg. An die Georgia Augusta gelangten erste Belege des Meteoriten durch eine der frühen mineralogischen Sendungen von Baron von ASCH, wie einem Brief vom 19. Juni 1779 zu entmehmen ist. Johann Friedrich Blumenbach berichtet bereits ein Jahr später in der ersten Ausgabe seines „ Zweyten Theils des Handbuchs der Naturgeschichte“ von diesen Stücken im Göttinger Academischen Museum.</a17_Bemerkungen_Erwerbsform>
+      <a18>00022: 534; 00027: 655</a18>
+      <a21>nein</a21>
+      <a22>Chladni (1794)</a22>
+      <a23>Die extraterrestrische Herkunft des “Pallas-Eisens” (Meteorit) bewies in überzeugender Weise erstmals Ernst Florenz Friedrich Chladni (1756-1827) in seinem 1794 erschienenen Werk “Über den Ursprung der von Pallas gefundenen und anderer ihr ähnlicher Eisenmassen und über einige damit in Verbindung stehende Naturerscheinungen”.</a23>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>2</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>12</c2_Anzahl_Sekundär-Etiketten>
+      <f1>Der Meteorit von Krasnojarsk war der weltweit erste bekannt gewordene Stein-Eisen-Meteorit, was Anlass dafür war dieser besonderen, aus Olivin und Nickeleisen bestehenden Meteoritenklasse den Namen Pallasite, zu Ehren von Peter Simon Pallas zu geben. </f1>
+      <f2a_Bearbeiter>A. Böhme, A. Gehler, M. Reich</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2011-05-17</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2015-01-08</f3b>
+      
+         <pcdm:Object id="576ddb9e-a932-4463-a4c1-d3a60fd2de6c">
+            <pcdm:File id="380">fuploadtxbolonlineKerndaten210GZGHST04302D06131480384121.75.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>22</id>
+         <kerndaten_id>21</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+         <e4a>sehr gut</e4a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="453532f5-e787-4ffc-aa00-ec6810eb2f8c">
+               <pcdm:File id="72">fuploadtxbolonlinePartII282100GZGHST0430SteinEisenMeteoritFarbskala130563898245.44.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="73">fuploadtxbolonlinePartII282110GZGHST0430SteinEisenMeteoritFarbskala130563898245.67.tif</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="74">fuploadtxbolonlinePartII282120GZGHST0430SteinEisenMeteorit130563898245.88.swf</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="75">fuploadtxbolonlinePartII282130GZGHST0430SteinEisenMeteorit360klein130563898246.09.gif</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="516">fuploadtxbolonlinePartII282100GZGHST04302D11131480385606.75.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>28</id>
+         <kerndaten_id>21</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b1_Objektes_Art>Fragment</b1_Objektes_Art>
+         <b8>G=75.9 [g]</b8>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b10b>frühere Gewichtsangaben: Wöhler (1864, 1865, 1868, 1870, 1874), Klein (1879): nicht spezifiziert Koritnig (1962): 75,9g</b10b>
+         <b12>0.430</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="29fbbfbe-0e5b-44ee-8626-8d4440446247">
+               <pcdm:File id="86">fuploadtxbolonlinePartIII342100GZGHST04302D18131480393939.71.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>34</id>
+         <kerndaten_id>21</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>von der 1600 lb [Pfund] schweren  Nickelhaltigen Masse von  Meteoreisen die Pallas 1772 auf einem Berge bey Krasnojarsk am Jenisei aufgefunden. Erhalten von H. Baron von Asch</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+     </pcdm:AdministrativeSet>
+<pcdm:AdministrativeSet id="part3">
+    
+            <pcdm:Object id="c61a13aa-b514-4631-a6dc-166c85829305">
+               <pcdm:File id="87">fuploadtxbolonlinePartIII412101GZGHST04302D05131480393940.34.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>41</id>
+         <kerndaten_id>21</kerndaten_id>
+         <block_nr>1</block_nr>
+         <a10_Text_Original-Etikett>Krasnojarsk</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Stück geklebt</c3_Art_Original-Etikett>
+         <c6a>mäßig</c6a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>27</id>
+         <kerndaten_id>21</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Meteoritenkunde</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="5962883a-b5f2-484a-bfc9-96d40dffd13a">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>22</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1448623448</tstamp>
+      <crdate>1448623448</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Campo del Cielo (Eisenmeteorit)</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Meteoritenkunde</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.333</a3_Heutige_Inventar-Nummer>
+      <a5_Sekundär-Nummer>256; 1.11.2.2</a5_Sekundär-Nummer>
+      <a6_Serie>1</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Meteorite: Eisenmeteorite: Oktaedrite: grobe Oktaedrite (IA-Eisen)</a7a_Großgruppe_Fachtermini>
+      <a7b_Großgruppe_Allgemein>Meteorite: Eisenmeteorite: Oktaedrite: grobe Oktaedrite (IA-Eisen)</a7b_Großgruppe_Allgemein>
+      <a8_Bezeichnung_Original>Von der 30,000 ... [Pfund] schweren Eisenmasse 1782 in der Wüste am Panamaflusse in Paraguay gefunden.</a8_Bezeichnung_Original>
+      <a9a_Bezeichnung_Neue_Fachtermini>grober Oktaedrit, IA-Eisen</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>Casique Catan; Chaco Gualambo; Charata; El Abipon; El Charata; El Hacha; El Mataco; El Mocovi; El Patio; El Perdido; El Rosario; El Taco; El Toba; El Tonocoté; Gancedo; Gran Chaco (iron); Gran Chaco Gualamba; Gran Chaco I; Gran Chaco II; La Perdida; Los Guanacos; Meson de Fierro; Nihuá; Otumpa; Paraguay; Pinalta; Pozo del Cielo; Reventazone; Runa Pocito; San Jago del Estero; Santiago del Estero; Silva; Tucuman; Wöhler's Iron</a9c_Synonyma>
+      <a9d_mindat_URI>http://www.lpi.usra.edu/meteor/metbull.php?code=5247; http://www.mindat.org/loc-23487.html</a9d_mindat_URI>
+      <a12a_Datierung_von>Hadaikum (4000 - 4600)</a12a_Datierung_von>
+      <a12aa_Datierung_bis>Hadaikum (4000 - 4600)</a12aa_Datierung_bis>
+      <a12b_Bemerkungen_zur_Datierung>Fund seit 1567 (viele Stücke)</a12b_Bemerkungen_zur_Datierung>
+      <a12e>Fund ohne Fallbeobachtung</a12e>
+      <a13a_Fundort>Chaco, Argentinien, Südamerika</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>27° 28` 0`` S 60° 35` 0`` W</a13b_Fundort-Koordinaten>
+      <a13d>7006477</a13d>
+      <a14b>1782-01-01</a14b>
+      <a14ba>1783-12-31</a14ba>
+      <a15a_Erhalten_von>Banks, Joseph (1743-1820)</a15a_Erhalten_von>
+      <a15aa>cnp01338058</a15aa>
+      <a15b_Datum_Sammlungseingang_von>1782-01-01</a15b_Datum_Sammlungseingang_von>
+      <a15ba_Datum_Sammlungseingang_bis>1794-09-24</a15ba_Datum_Sammlungseingang_bis>
+      <a16a_Erwerbsform>vermutlich Geschenk</a16a_Erwerbsform>
+      <a17_Bemerkungen_Erwerbsform>Im Rahmen einer von Rubin de Celis 1783 durchgeführten Expedition wurde nahe Otumpa eine mehrere Tonnen schwere Eisenmasse wiedergefunden, von der schon 1576 während einer spanischen Expedition unter der Leitung von de Miraval Stücke gesammelt worden waren. Es existiert ein Brief von Blumenbach an Banks vom 24. September 1794 mit Dank für den Erhalt eines Stückes aus einer südamerikanischen Wüste.</a17_Bemerkungen_Erwerbsform>
+      <a18>00025: 648; 00026: 662; 00027: 655; 00029: 678; 00030: 685; 00031: 695; 00032: 705; 00033: 581; 00034: 458f </a18>
+      <a21>nein</a21>
+      <a23>unvollständig</a23>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>2</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>6</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>A. Böhme, A. Gehler, M. Reich</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2011-05-19</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2015-11-27</f3b>
+      
+         <pcdm:Object id="e1e7392c-a664-4165-9be4-478f75a0960c">
+            <pcdm:File id="375">fuploadtxbolonlineKerndaten220GZGHST03332D11131480202379.2.JPG</pcdm:File>
+            <pcdm:File id="376">fuploadtxbolonlineKerndaten220GZGHST03332D10131480208195.23.JPG</pcdm:File>
+            <pcdm:File id="377">fuploadtxbolonlineKerndaten221GZGHST03332D01131480208195.48.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>23</id>
+         <kerndaten_id>22</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="76f8a706-8d1a-422d-aab6-c74814feb5be">
+               <pcdm:File id="76">fuploadtxbolonlinePartII292200GZGHST0333EisenmeteoritCampodelCieloFarbskala130624637885.76.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="77">fuploadtxbolonlinePartII292210GZGHST0333EisenmeteoritCampodelCieloFarbskala130624637885.99.tif</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="78">fuploadtxbolonlinePartII292220GZGHST0333Eisenmeteorit130624637886.21.swf</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="1094">fuploadtxbolonlinePartII292200GZGHST03332D36133223287771.9.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>29</id>
+         <kerndaten_id>22</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b1_Objektes_Art>Abschnitt von größerem Fragment</b1_Objektes_Art>
+         <b7a>L=12 [mm] B=11 [mm] H=14 [mm]</b7a>
+         <b8>G=4.6 [g]</b8>
+         <b9a>Glasröhrchen mit Korken </b9a>
+         <b9b>G (historische Aufbewahrung inklusive Objekt) =11,4g; L (historische Aufbewahrung) = 48 [mm]; D (historische Aufbewahrung) = 19 [mm]</b9b>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b10b>frühere Gewichtsangaben: Wöhler (1864, 1865, 1868, 1870, 1874): 5g (als Paraguay) Klein (1879): 4,5g (als Paraguay) Koritnig (1962): 4,5g</b10b>
+         <b11a>nein</b11a>
+         <b12>0.333</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="e47c0401-9328-420f-8f13-29c462cff6eb">
+               <pcdm:File id="165">fuploadtxbolonlinePartIII352200GZGHST03332D34133224089139.69.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>35</id>
+         <kerndaten_id>22</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Von der 30,000 ... [Pfund] schweren Eisenmasse 1782 in der Wüste von [von durchgestrichen] am Panama- flusse in Paraguay gefunden.
+      von Sir Jos. Banks an
+     Blumenbach gegeben.                   ["4,94" sekundär vermerkt]</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert</c3_Art_Original-Etikett>
+         <c4>B=45 [mm] L=62 [mm]</c4>
+         <c5>Handschrift nicht von Blumenbach (vermutlich stammt das Etikett auch aus sehr viel jüngerer Zeit)</c5>
+         <c6a>sehr gut</c6a>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="a42703c7-e5d1-4fb7-b5d1-5303ed1d74d3">
+               <pcdm:File id="84">fuploadtxbolonlinePartIII462201GZGHST03332D16131480219113.22.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>46</id>
+         <kerndaten_id>22</kerndaten_id>
+         <block_nr>1</block_nr>
+         <a10_Text_Original-Etikett>Paraguay.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>ursprünglich vermutlich direkt auf das Stück geklebt</c3_Art_Original-Etikett>
+         <c4>B=4 [mm] L=8 [mm]</c4>
+         <c6a>gut</c6a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>28</id>
+         <kerndaten_id>22</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Meteoritenkunde</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="be3e5a3d-ae57-4773-80ef-638b645f34e6">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>23</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1384897219</tstamp>
+      <crdate>1384897219</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Brachiopoden (&lt;i&gt;Pliothyrina grandis&lt;/i&gt;)</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Palaeozoologie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.477; 0.478; 0.479; 0.480; 0.481</a3_Heutige_Inventar-Nummer>
+      <a6_Serie>5</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Brachiopoda: Rhynchonelliformea: Terebratulida: Terebratulidae</a7a_Großgruppe_Fachtermini>
+      <a7b_Großgruppe_Allgemein>Armfüßer: Rhynchonelliformea: Terebratulida: Terebrateln s. s.</a7b_Großgruppe_Allgemein>
+      <a9a_Bezeichnung_Neue_Fachtermini>&lt;i&gt;Pliothyrina grandis&lt;/i&gt;</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>&lt;i&gt;Terebratula grandis&lt;/i&gt; </a9c_Synonyma>
+      <a12a_Datierung_von>Chattium (23.03 - 28.4)</a12a_Datierung_von>
+      <a12aa_Datierung_bis>Chattium (23.03 - 28.4)</a12aa_Datierung_bis>
+      <a12c>Biostratigraphie</a12c>
+      <a12d>an Mikrofossilien (Kalknannoplankton, Foraminiferen und Dinozysten); vgl. u. a. Köthe, A. (2005): Korrelation der Dinozysten-Zonen mit anderen biostratigraphisch wichtigen Zonierungen im Tertiär Norddeutschlands. – Revue de Paléobiologie 24 (2): 697-718</a12d>
+      <a13a_Fundort>Mergelgrube Pohlkotte (Haus/Gut Leye), W Osnabrück, Deutschland</a13a_Fundort>
+      <a13d>7005252</a13d>
+      <a16a_Erwerbsform>vermutlich Geschenk</a16a_Erwerbsform>
+      <a18>00027: 701</a18>
+      <a21>vielleicht</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG</a28_Rechtehinweise>
+      <c1_Anzahl_Original-Etiketten>2</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>3</c2_Anzahl_Sekundär-Etiketten>
+      <f1>Sekundäretikett: Hiltermann (1984) in H. Klassen: S. 465 und 483 gibt als Aufschluß 9 die Mergelgrube Pohlkotte W Osnabrück (GK 3713, Blatt Hasbergen) mit marinem O. Oligozän im Rubbenbruch an. Hs. (=Gut) Leye entspricht wohl den obigen Lokalitätsangaben (W'Osnabrück)</f1>
+      <f2a_Bearbeiter>A. Böhme, A. Gehler</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2011-05-25</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2013-11-19</f3b>
+      
+         <pcdm:Object id="4d4296ea-0b26-4bc6-84c1-c0062476a570">
+            <pcdm:File id="130">fuploadtxbolonlineKerndaten230GZGHST0477PliothyrinagrandisFarbskala130632791542.4.jpg</pcdm:File>
+            <pcdm:File id="133">fuploadtxbolonlineKerndaten233GZGHST0478PliothyrinagrandisFarbskala130632791547.67.jpg</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>24</id>
+         <kerndaten_id>23</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+         <e4a>sehr gut</e4a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="3d7acaf4-cc0f-4c6c-9878-a9230a0aa9ab">
+               <pcdm:File id="82">fuploadtxbolonlinePartII302300GZGHST0477PliothyrinagrandisFarbskala130632833539.48.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="83">fuploadtxbolonlinePartII302310GZGHST0477PliothyrinagrandisFarbskala130632833539.72.tif</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="84">fuploadtxbolonlinePartII302320GZGHST0477Pliothyrinagrandis130632833540.68.swf</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>30</id>
+         <kerndaten_id>23</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b1_Objektes_Art>Stilklappe</b1_Objektes_Art>
+         <b10a_Objekte_Zustand>gut</b10a_Objekte_Zustand>
+         <b10b>geklebt</b10b>
+         <b12>0.477</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="16e18a2b-ddc0-43ee-b121-feec89d328c4">
+               <pcdm:File id="85">fuploadtxbolonlinePartII382301GZGHST0478PliothyrinagrandisFarbskala130632842297.31.jpg</pcdm:File>
+               <block_nr>1</block_nr>
+               <pcdm:File id="86">fuploadtxbolonlinePartII382311GZGHST0478PliothyrinagrandisFarbskala130632842297.51.tif</pcdm:File>
+               <block_nr>1</block_nr>
+               <pcdm:File id="87">fuploadtxbolonlinePartII382321GZGHST0478Pliothyrinagrandis130632842297.75.swf</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>38</id>
+         <kerndaten_id>23</kerndaten_id>
+         <block_nr>1</block_nr>
+         <b1_Objektes_Art>halbe Stilklappe</b1_Objektes_Art>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.478</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+         <id>39</id>
+         <kerndaten_id>23</kerndaten_id>
+         <block_nr>2</block_nr>
+         <b1_Objektes_Art>komplettes Gehäuse mit jedoch eingebrochener Stilklappe am Vorderrand</b1_Objektes_Art>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.479 </b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+         <id>40</id>
+         <kerndaten_id>23</kerndaten_id>
+         <block_nr>3</block_nr>
+         <b1_Objektes_Art>nahezu komplettes Gehäuse</b1_Objektes_Art>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.480</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+         <id>41</id>
+         <kerndaten_id>23</kerndaten_id>
+         <block_nr>4</block_nr>
+         <b1_Objektes_Art>nahezu komplettes Gehäuse</b1_Objektes_Art>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.481</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="297bbe40-0138-45f7-8b6d-5d824dfb856f">
+               <pcdm:File id="44">fuploadtxbolonlinePartIII362300GZGHST0477Pliothyrinagrandis021130675396274.15.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>36</id>
+         <kerndaten_id>23</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Haus Leye bey Osnabrück</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Objekt geklebt</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+         <id>48</id>
+         <kerndaten_id>23</kerndaten_id>
+         <block_nr>1</block_nr>
+         <a10_Text_Original-Etikett>Haus Leye in Osnabr.</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Objekt geklebt</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>29</id>
+         <kerndaten_id>23</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+         <d3a>sehr gut</d3a>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Palaeozoologie</kategorie>
+      </taxons>
+   </pcdm:Object>
+    <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="c30f0fef-c3bc-4215-a9c5-32636fd409b4">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>24</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1384897366</tstamp>
+      <crdate>1384897366</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Brachiopoden (&lt;i&gt;Pliothyrina grandis&lt;/i&gt;)</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Palaeozoologie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.467; 0.468; 0.469; 0.470; 0.471</a3_Heutige_Inventar-Nummer>
+      <a6_Serie>5</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Brachiopoda: Rhynchonelliformea: Terebratulida: Terebratulidae</a7a_Großgruppe_Fachtermini>
+      <a7b_Großgruppe_Allgemein>Armfüßer: Rhynchonelliformea: Terebratulida: Terebrateln s. s.</a7b_Großgruppe_Allgemein>
+      <a9a_Bezeichnung_Neue_Fachtermini>&lt;i&gt;Pliothyrina grandis&lt;/i&gt;</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>&lt;i&gt;Terebratula grandis&lt;/i&gt;</a9c_Synonyma>
+      <a12a_Datierung_von>Chattium (23.03 - 28.4)</a12a_Datierung_von>
+      <a12aa_Datierung_bis>Chattium (23.03 - 28.4)</a12aa_Datierung_bis>
+      <a12c>Biostratigraphie</a12c>
+      <a12d>an Mikrofossilien (Kalknannoplankton, Foraminiferen und Dinozysten); vgl. u. a. Köthe, A. (2005): Korrelation der Dinozysten-Zonen mit anderen biostratigraphisch wichtigen Zonierungen im Tertiär Norddeutschlands. – Revue de Paléobiologie 24 (2): 697-718</a12d>
+      <a13a_Fundort>Osnabrück, Weser-Ems - Niedersachsen - Deutschland - Europe - World</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>52° 17' 00" N, 008° 03' 00" E</a13b_Fundort-Koordinaten>
+      <a13c_Fundort_Getty-ID>7005252</a13c_Fundort_Getty-ID>
+      <a16a_Erwerbsform>Geschenk</a16a_Erwerbsform>
+      <a18>00027: 701</a18>
+      <a21>vielleicht</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <c1_Anzahl_Original-Etiketten>5</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>0</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>A. Böhme, A. Gehler</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2011-05-25</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2013-11-19</f3b>
+      
+         <pcdm:Object id="e8d3bbf5-3525-459e-8ead-041156b21606">
+            <pcdm:File id="805">fuploadtxbolonlineKerndaten241GZGHST04682D06135390156482.49.JPG</pcdm:File>
+            <pcdm:File id="804">fuploadtxbolonlineKerndaten240GZGHST04672D05135390156465.44.JPG</pcdm:File>
+            <pcdm:File id="806">fuploadtxbolonlineKerndaten242GZGHST04692D07135390156495.71.JPG</pcdm:File>
+            <pcdm:File id="807">fuploadtxbolonlineKerndaten243GZGHST04702D05135390156512.18.JPG</pcdm:File>
+            <pcdm:File id="808">fuploadtxbolonlineKerndaten244GZGHST04712D04135390156523.11.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>25</id>
+         <kerndaten_id>24</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+         <e4a>sehr gut</e4a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="d9958967-e92b-4ab8-9ffa-25ea576a8448">
+               <pcdm:File id="2684">fuploadtxbolonlinePartII312400GZGHST04672D05135390187572.92.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="90">fuploadtxbolonlinePartII312420GZGHST0467Pliothyrinagrandis130674184673.08.swf</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="2674">fuploadtxbolonlinePartII312400GZGHST04672D02135389925252.96.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>31</id>
+         <kerndaten_id>24</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b1_Objektes_Art>vier ineinander verschachtelte Klappen</b1_Objektes_Art>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.467</b12>
+     </pcdm:AdministrativeSet>
+<pcdm:AdministrativeSet id="part2">
+    
+            <pcdm:Object id="9a70bf8d-69a6-4d50-8ccb-6df360bec925">
+               <pcdm:File id="2680">fuploadtxbolonlinePartII462401GZGHST04682D06135390177500.03.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+               <pcdm:File id="93">fuploadtxbolonlinePartII462421GZGHST0468Pliothyrinagrandis130674188344.22.swf</pcdm:File>
+               <block_nr>1</block_nr>
+               <pcdm:File id="2675">fuploadtxbolonlinePartII462401GZGHST04682D04135389925341.45.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>46</id>
+         <kerndaten_id>24</kerndaten_id>
+         <block_nr>1</block_nr>
+         <b1_Objektes_Art>komplettes Gehäuse</b1_Objektes_Art>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.468</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="ddb1db61-f896-4e8a-8fdc-ba63ccde6ea0">
+               <pcdm:File id="2681">fuploadtxbolonlinePartII472402GZGHST04692D07135390177512.98.JPG</pcdm:File>
+               <block_nr>2</block_nr>
+               <pcdm:File id="2676">fuploadtxbolonlinePartII472402GZGHST04692D01135389925384.25.JPG</pcdm:File>
+               <block_nr>2</block_nr>
+            </pcdm:Object>
+         <id>47</id>
+         <kerndaten_id>24</kerndaten_id>
+         <block_nr>2</block_nr>
+         <b1_Objektes_Art>komplettes Gehäuse, stark deformiert</b1_Objektes_Art>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.469</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="38380d31-06c7-4ce4-84cb-e8d0424548d4">
+               <pcdm:File id="2682">fuploadtxbolonlinePartII482403GZGHST04702D05135390177530.83.JPG</pcdm:File>
+               <block_nr>3</block_nr>
+               <pcdm:File id="2677">fuploadtxbolonlinePartII482403GZGHST04702D02135389925412.56.JPG</pcdm:File>
+               <block_nr>3</block_nr>
+            </pcdm:Object>
+         <id>48</id>
+         <kerndaten_id>24</kerndaten_id>
+         <block_nr>3</block_nr>
+         <b1_Objektes_Art>nahezu komplettes Gehäuse mit unvollständiger Armklappe und geringen Verlusten am Vorderrand der Stielklappe</b1_Objektes_Art>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.470</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="74b6d7dd-40ea-4c85-b430-ecb9553182f5">
+               <pcdm:File id="2678">fuploadtxbolonlinePartII492404GZGHST04712D01135389925425.19.JPG</pcdm:File>
+               <block_nr>4</block_nr>
+               <pcdm:File id="2683">fuploadtxbolonlinePartII492404GZGHST04712D04135390177541.76.JPG</pcdm:File>
+               <block_nr>4</block_nr>
+            </pcdm:Object>
+         <id>49</id>
+         <kerndaten_id>24</kerndaten_id>
+         <block_nr>4</block_nr>
+         <b1_Objektes_Art>komplette Stielklappe mit Resten der eingedrückten Armklappe</b1_Objektes_Art>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.471</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="ddaa5156-6a3f-43e4-9033-2fffc7eea69e">
+               <pcdm:File id="45">fuploadtxbolonlinePartIII372400GZGHST0467Pliothyrinagrandis022130675513508.01.jpg</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="274">fuploadtxbolonlinePartIII372400GZGHST04672D03135390006105.65.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>37</id>
+         <kerndaten_id>24</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Osnabrück</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Objekt geklebt</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="46a9b9f2-466b-4eca-a14e-9f9736504842">
+               <pcdm:File id="46">fuploadtxbolonlinePartIII532401GZGHST0468Pliothyrinagrandis018130675513508.63.jpg</pcdm:File>
+               <block_nr>1</block_nr>
+               <pcdm:File id="275">fuploadtxbolonlinePartIII532401GZGHST04682D01135390006139.06.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>53</id>
+         <kerndaten_id>24</kerndaten_id>
+         <block_nr>1</block_nr>
+         <a10_Text_Original-Etikett>Osnabrück</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Objekt geklebt</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="fded7cb3-a7dc-4deb-90c2-a0e64e56d2ea">
+               <pcdm:File id="276">fuploadtxbolonlinePartIII542402GZGHST04692D02135390006157.85.JPG</pcdm:File>
+               <block_nr>2</block_nr>
+            </pcdm:Object>
+         <id>54</id>
+         <kerndaten_id>24</kerndaten_id>
+         <block_nr>2</block_nr>
+         <a10_Text_Original-Etikett>Osnabrück</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Objekt geklebt</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="9268f75f-5b0d-41ce-be1e-c2a70f92c25f">
+               <pcdm:File id="277">fuploadtxbolonlinePartIII552403GZGHST04702D01135390006171.31.JPG</pcdm:File>
+               <block_nr>3</block_nr>
+            </pcdm:Object>
+         <id>55</id>
+         <kerndaten_id>24</kerndaten_id>
+         <block_nr>3</block_nr>
+         <a10_Text_Original-Etikett>Osnabrück</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Objekt geklebt</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="a2d0046c-a36e-4a21-a612-69dc1af8ff45">
+               <pcdm:File id="278">fuploadtxbolonlinePartIII562404GZGHST046704712D02135390020607.62.JPG</pcdm:File>
+               <block_nr>4</block_nr>
+            </pcdm:Object>
+         <id>56</id>
+         <kerndaten_id>24</kerndaten_id>
+         <block_nr>4</block_nr>
+         <a10_Text_Original-Etikett>aus einer Mer- gelgrube im Osnabrück [schen]</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>isoliert (aber ggf. zu einem früheren Zeitpunkt aufgeklebt)</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>30</id>
+         <kerndaten_id>24</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+         <d3a>sehr gut</d3a>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Palaeozoologie</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="a39a0622-6d2d-46c5-b776-dc2a1083885d">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>25</kerndaten_id>
+      <uid>27</uid>
+      <pid>1</pid>
+      <tstamp>1441196571</tstamp>
+      <crdate>1441196571</crdate>
+      <cruser_id>5</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Anatomie und Anthropologie</a0_Zusammenfassende_Bezeichnung>
+      <a21>nein</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Medizinische Fakultät, Zentrum Anatomie (Blumenbachsche Schädelsammlung)</a24a_Standort_externen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>26</id>
+         <kerndaten_id>25</kerndaten_id>
+         <block_nr>0</block_nr>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+         <id>32</id>
+         <kerndaten_id>25</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         <id>38</id>
+         <kerndaten_id>25</kerndaten_id>
+         <block_nr>0</block_nr>
+         <c6a>sehr gut</c6a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>31</id>
+         <kerndaten_id>25</kerndaten_id>
+         <block_nr>0</block_nr>
+         <d3a>sehr gut</d3a>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Anatomie und Anthropologie</kategorie>
+      </taxons>
+   </pcdm:Object>
+   <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+                id="993e8a55-db14-415a-99de-58e1506ef1f7">
+<pcdm:AdministrativeSet id="part0">
+      <kerndaten_id>26</kerndaten_id>
+      <uid>20</uid>
+      <pid>1</pid>
+      <tstamp>1384897334</tstamp>
+      <crdate>1384897334</crdate>
+      <cruser_id>1</cruser_id>
+      <a0_Zusammenfassende_Bezeichnung>Brachiopoden (&lt;i&gt;Pliothyrina grandis&lt;/i&gt;)</a0_Zusammenfassende_Bezeichnung>
+      <a1_Zuordnung>Palaeozoologie</a1_Zuordnung>
+      <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+      <a3_Heutige_Inventar-Nummer>0.472; 0.473; 0.474; 0.475; 0.476</a3_Heutige_Inventar-Nummer>
+      <a6_Serie>5</a6_Serie>
+      <a7a_Großgruppe_Fachtermini>Brachiopoda: Rhynchonelliformea: Terebratulida: Terebratulidae</a7a_Großgruppe_Fachtermini>
+      <a7b_Großgruppe_Allgemein>Armfüßer: Rhynchonelliformea: Terebratulida: Terebrateln s. s.</a7b_Großgruppe_Allgemein>
+      <a9a_Bezeichnung_Neue_Fachtermini>&lt;i&gt;Pliothyrina grandis&lt;/i&gt;</a9a_Bezeichnung_Neue_Fachtermini>
+      <a9c_Synonyma>&lt;i&gt;Terebratula grandis&lt;/i&gt;</a9c_Synonyma>
+      <a12a_Datierung_von>Chattium (23.03 - 28.4)</a12a_Datierung_von>
+      <a12aa_Datierung_bis>Chattium (23.03 - 28.4)</a12aa_Datierung_bis>
+      <a12c>Biostratigraphie</a12c>
+      <a12d>an Mikrofossilien (Kalknannoplankton, Foraminiferen und Dinozysten); vgl. u. a. Köthe, A. (2005): Korrelation der Dinozysten-Zonen mit anderen biostratigraphisch wichtigen Zonierungen im Tertiär Norddeutschlands. – Revue de Paléobiologie 24 (2): 697-718</a12d>
+      <a13a_Fundort>Osnabrück, Weser-Ems - Niedersachsen - Deutschland - Europe - World</a13a_Fundort>
+      <a13b_Fundort-Koordinaten>52° 17' 00" N, 008° 03' 00" E</a13b_Fundort-Koordinaten>
+      <a13c_Fundort_Getty-ID>7005252</a13c_Fundort_Getty-ID>
+      <a18>00027: 701</a18>
+      <a21>vielleicht</a21>
+      <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+      <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+      <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+      <c1_Anzahl_Original-Etiketten>3</c1_Anzahl_Original-Etiketten>
+      <c2_Anzahl_Sekundär-Etiketten>0</c2_Anzahl_Sekundär-Etiketten>
+      <f2a_Bearbeiter>A. Böhme, A. Gehler</f2a_Bearbeiter>
+      <f2b_Datum_Erstbearbeitung>2011-05-25</f2b_Datum_Erstbearbeitung>
+      <f3a>A. Gehler</f3a>
+      <f3b>2013-11-19</f3b>
+      
+         <pcdm:Object id="c0be6df9-7e25-4ec3-b9db-d83f9dcd9a44">
+            <pcdm:File id="813">fuploadtxbolonlineKerndaten264GZGHST04762D04135390222559.24.JPG</pcdm:File>
+            <pcdm:File id="812">fuploadtxbolonlineKerndaten263GZGHST04752D13135390222543.06.JPG</pcdm:File>
+            <pcdm:File id="811">fuploadtxbolonlineKerndaten262GZGHST04742D10135390222528.26.JPG</pcdm:File>
+            <pcdm:File id="810">fuploadtxbolonlineKerndaten261GZGHST04732D04135390222508.15.JPG</pcdm:File>
+            <pcdm:File id="809">fuploadtxbolonlineKerndaten260GZGHST04722D11135390222491.16.JPG</pcdm:File>
+         </pcdm:Object>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part1">
+         <id>27</id>
+         <kerndaten_id>26</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+         <e4a>sehr gut</e4a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="1ed42052-7ee0-4bdc-90e7-d05c7cc9b186">
+               <pcdm:File id="2685">fuploadtxbolonlinePartII332600GZGHST04722D11135390247999.74.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+               <pcdm:File id="2686">fuploadtxbolonlinePartII332610GZGHST04722D06135390248019.2.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>33</id>
+         <kerndaten_id>26</kerndaten_id>
+         <block_nr>0</block_nr>
+         <b1_Objektes_Art>komplettes Gehäuse, deformiert</b1_Objektes_Art>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.472</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="fd2694b3-d006-4482-b5d1-b3de1efe7caa">
+               <pcdm:File id="2687">fuploadtxbolonlinePartII502601GZGHST04732D04135390248034.69.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+               <pcdm:File id="2688">fuploadtxbolonlinePartII502611GZGHST04732D01135390248048.4.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>50</id>
+         <kerndaten_id>26</kerndaten_id>
+         <block_nr>1</block_nr>
+         <b1_Objektes_Art>komplettes Gehäuse, deformiert</b1_Objektes_Art>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.473</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="86da269d-5dfe-44cb-b330-a2577712b539">
+               <pcdm:File id="2689">fuploadtxbolonlinePartII512602GZGHST04742D10135390248059.92.JPG</pcdm:File>
+               <block_nr>2</block_nr>
+               <pcdm:File id="2690">fuploadtxbolonlinePartII512612GZGHST04742D01135390248076.56.JPG</pcdm:File>
+               <block_nr>2</block_nr>
+            </pcdm:Object>
+         <id>51</id>
+         <kerndaten_id>26</kerndaten_id>
+         <block_nr>2</block_nr>
+         <b1_Objektes_Art>nahezu komplettes Gehäuse, deformiert</b1_Objektes_Art>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.474</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="4bdb6d15-c2dc-4605-84a4-13d9eca58c07">
+               <pcdm:File id="2691">fuploadtxbolonlinePartII522603GZGHST04752D13135390248088.82.JPG</pcdm:File>
+               <block_nr>3</block_nr>
+               <pcdm:File id="2692">fuploadtxbolonlinePartII522613GZGHST04752D02135390248103.19.JPG</pcdm:File>
+               <block_nr>3</block_nr>
+            </pcdm:Object>
+         <id>52</id>
+         <kerndaten_id>26</kerndaten_id>
+         <block_nr>3</block_nr>
+         <b1_Objektes_Art>nahezu komplettes Gehäuse, deformiert</b1_Objektes_Art>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.475</b12>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part2">
+
+            <pcdm:Object id="118c01a8-9cf5-4613-8438-127015b3f5e4">
+               <pcdm:File id="2693">fuploadtxbolonlinePartII532604GZGHST04762D04135390248117.01.JPG</pcdm:File>
+               <block_nr>4</block_nr>
+               <pcdm:File id="2694">fuploadtxbolonlinePartII532614GZGHST04762D01135390248132.63.JPG</pcdm:File>
+               <block_nr>4</block_nr>
+            </pcdm:Object>
+         <id>53</id>
+         <kerndaten_id>26</kerndaten_id>
+         <block_nr>4</block_nr>
+         <b1_Objektes_Art>drei ineinander verschachtelte Klappen</b1_Objektes_Art>
+         <b10a_Objekte_Zustand>sehr gut</b10a_Objekte_Zustand>
+         <b12>0.476</b12>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="8ea89f8e-36c9-4cfa-9e4c-1e72330b6222">
+               <pcdm:File id="279">fuploadtxbolonlinePartIII392600GZGHST04722D12135390286115.28.JPG</pcdm:File>
+               <block_nr>0</block_nr>
+            </pcdm:Object>
+         <id>39</id>
+         <kerndaten_id>26</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a10_Text_Original-Etikett>Osnabrück</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Objekt geklebt</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="431425cc-3cc8-4bc4-88d0-b8cb95603437">
+               <pcdm:File id="280">fuploadtxbolonlinePartIII572601GZGHST04742D10135390286134.73.JPG</pcdm:File>
+               <block_nr>1</block_nr>
+            </pcdm:Object>
+         <id>57</id>
+         <kerndaten_id>26</kerndaten_id>
+         <block_nr>1</block_nr>
+         <a10_Text_Original-Etikett>Osnabrück</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Objekt geklebt</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+     </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part3">
+         
+            <pcdm:Object id="77b6df5f-bf45-4477-8757-14c56dd9009e">
+               <pcdm:File id="281">fuploadtxbolonlinePartIII582602GZGHST04752D06135390286147.62.JPG</pcdm:File>
+               <block_nr>2</block_nr>
+            </pcdm:Object>
+         <id>58</id>
+         <kerndaten_id>26</kerndaten_id>
+         <block_nr>2</block_nr>
+         <a10_Text_Original-Etikett>Osnabrück</a10_Text_Original-Etikett>
+         <c3_Art_Original-Etikett>direkt auf das Objekt geklebt</c3_Art_Original-Etikett>
+         <c5>Handschrift von Blumenbach</c5>
+         <c6a>sehr gut</c6a>
+      </pcdm:AdministrativeSet>
+      <pcdm:AdministrativeSet id="part4">
+         <id>32</id>
+         <kerndaten_id>26</kerndaten_id>
+         <block_nr>0</block_nr>
+         <a11>nicht vorhanden</a11>
+         <d3a>sehr gut</d3a>
+      </pcdm:AdministrativeSet>
+      <taxons>
+         <kategorie>Palaeozoologie</kategorie>
+      </taxons>
+   </pcdm:Object>
+    <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+        id="f384e1c8-cf99-4079-8aaa-e4cdd891dfa9">
+        <pcdm:AdministrativeSet id="part0">
+            <kerndaten_id>27</kerndaten_id>
+            <uid>20</uid>
+            <pid>1</pid>
+            <tstamp>1411120030</tstamp>
+            <crdate>1411120030</crdate>
+            <cruser_id>1</cruser_id>
+            <a0_Zusammenfassende_Bezeichnung>Wollhaarmammut (&lt;i&gt;Mammuthus primigenius&lt;/i&gt;) [Backenzahn]</a0_Zusammenfassende_Bezeichnung>
+            <a1_Zuordnung>Palaeozoologie</a1_Zuordnung>
+            <a2_Sammlungs-Akronym>GZG.HST.</a2_Sammlungs-Akronym>
+            <a3_Heutige_Inventar-Nummer>0.434</a3_Heutige_Inventar-Nummer>
+            <a5_Sekundär-Nummer>GZG.V.010.015</a5_Sekundär-Nummer>
+            <a6_Serie>1</a6_Serie>
+            <a7a_Großgruppe_Fachtermini>Mammalia: Proboscidea: Elephantidae</a7a_Großgruppe_Fachtermini>
+            <a7b_Großgruppe_Allgemein>Säugetiere: Rüsseltiere: Elefanten</a7b_Großgruppe_Allgemein>
+            <a8_Bezeichnung_Original>Elephas asiaticus; Asiatischer Elephant</a8_Bezeichnung_Original>
+            <a9a_Bezeichnung_Neue_Fachtermini>&lt;i&gt;Mammuthus primigenius&lt;/i&gt; (Blumenbach, 1799), Molar (m1 oder m2, sin.)</a9a_Bezeichnung_Neue_Fachtermini>
+            <a9b_Bezeichnung_Neue_Allgemein>Wollhaarmammut, Backenzahn (Mahlzahn 1 oder 2, unten links)</a9b_Bezeichnung_Neue_Allgemein>
+            <a9c_Synonyma>&lt;i&gt;Elephas primigenius&lt;/i&gt;; &lt;i&gt;Elephas mammonteus&lt;/i&gt;</a9c_Synonyma>
+            <a12a_Datierung_von>Pleistozän (0.0117 - 2.588)</a12a_Datierung_von>
+            <a12aa_Datierung_bis>Pleistozän (0.0117 - 2.588)</a12aa_Datierung_bis>
+            <a13a_Fundort>unbekannt</a13a_Fundort>
+            <a14ba>1797-12-31</a14ba>
+            <a15a_Erhalten_von>Asch, Georg Thomas von (1729-1807)</a15a_Erhalten_von>
+            <a15aa>cnp00397388</a15aa>
+            <a15ba_Datum_Sammlungseingang_bis>1797-12-31</a15ba_Datum_Sammlungseingang_bis>
+            <a16a_Erwerbsform>Geschenk</a16a_Erwerbsform>
+            <a17_Bemerkungen_Erwerbsform>Aus den Abbildungen naturhistorischer Gegenstände geht hervor, dass der Zahn zum Zeitpunkt der Veröffentlichung bereits Bestandteil der Sammlung vom "academischen Museum" war.</a17_Bemerkungen_Erwerbsform>
+            <a18>Handbuch der Naturgeschichte (6 ed., 1799: 121f.; 7 ed., 1803: 121f; 8 ed., 1807: 125ff; 9 ed., 1814: 126f; 10 ed., 1821: 128f; 11 ed., 1825: 106f; 12 ed., 1830: 82f)</a18>
+            <a19>Abbildungen naturhistorischer Gegenstände 2 (1797: 2 pp.)</a19>
+            <a20>Abbildungen naturhistorischer Gegenstände 2 (1797: Taf. 19, Fig. B)</a20>
+            <a21>nein</a21>
+            <a23>unvollständig; da Blumenbach leider kein Typusmaterial definierte, wurden erst im 20. Jahrhundert durch Osborn Lectotypen definiert. Zudem wurde vorliegender Zahn von Blumenbach dem Asiatischen Elefanten zugeordnet</a23>
+            <a24a_Standort_externen>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</a24a_Standort_externen>
+            <a24b_Standort_internen>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b_Standort_internen>
+            <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+            <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </a28_Rechtehinweise>
+            <c1_Anzahl_Original-Etiketten>0</c1_Anzahl_Original-Etiketten>
+            <c2_Anzahl_Sekundär-Etiketten>4</c2_Anzahl_Sekundär-Etiketten>
+            <f2a_Bearbeiter>A. Böhme, A. Gehler, M. Reich</f2a_Bearbeiter>
+            <f2b_Datum_Erstbearbeitung>2011-05-30</f2b_Datum_Erstbearbeitung>
+            <f3a>A. Gehler</f3a>
+            <f3b>2014-09-19</f3b>
+            
+            <pcdm:Object id="3fb12eb0-0ef9-45a3-8f83-ead6d3ab7c80">
+                <pcdm:File id="446">fuploadtxbolonlineKerndaten270GZGHST04342D07132084323863.07.JPG</pcdm:File>
+            </pcdm:Object>
+        </pcdm:AdministrativeSet>
+        <pcdm:AdministrativeSet id="part1">
+            <id>28</id>
+            <kerndaten_id>27</kerndaten_id>
+            <block_nr>0</block_nr>
+            <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+        </pcdm:AdministrativeSet>
+        <pcdm:AdministrativeSet id="part2">
+            
+            <pcdm:Object id="712657ae-493e-4d7d-b0bb-9ea5266a030a">
+                <pcdm:File id="94">fuploadtxbolonlinePartII342700GZGHST0434MammutFarbskala130674754883.4.jpg</pcdm:File>
+                <block_nr>0</block_nr>
+                <pcdm:File id="95">fuploadtxbolonlinePartII342710GZGHST0434MammutFarbskala130674754883.64.tif</pcdm:File>
+                <block_nr>0</block_nr>
+                <pcdm:File id="96">fuploadtxbolonlinePartII342720GZGHST0434Mammut130674754883.86.swf</pcdm:File>
+                <block_nr>0</block_nr>
+                <pcdm:File id="296">fuploadtxbolonlinePartII342700GZGHST0434130951338197.18.gif</pcdm:File>
+                <block_nr>0</block_nr>
+                <pcdm:File id="631">fuploadtxbolonlinePartII342700GZGHST04342D06132084327418.54.JPG</pcdm:File>
+                <block_nr>0</block_nr>
+            </pcdm:Object>
+            <id>34</id>
+            <kerndaten_id>27</kerndaten_id>
+            <block_nr>0</block_nr>
+            <b1_Objektes_Art>Trockenpräparat</b1_Objektes_Art>
+            <b7a>H=150 [mm] B=75 [mm] L=179 [mm]</b7a>
+            <b8>G=1582.7 [g]</b8>
+            <b9a>nicht vorhanden</b9a>
+            <b10a_Objekte_Zustand>gut</b10a_Objekte_Zustand>
+            <b12>0.434</b12>
+        </pcdm:AdministrativeSet>
+        <pcdm:AdministrativeSet id="part3">
+            <id>42</id>
+            <kerndaten_id>27</kerndaten_id>
+            <block_nr>0</block_nr>
+            <a10_Text_Original-Etikett>nicht vorhanden</a10_Text_Original-Etikett>
+        </pcdm:AdministrativeSet>
+        <pcdm:AdministrativeSet id="part4">
+            <id>33</id>
+            <kerndaten_id>27</kerndaten_id>
+            <block_nr>0</block_nr>
+            <a11>nicht vorhanden</a11>
+        </pcdm:AdministrativeSet>
+        <taxons>
+            <kategorie>Palaeozoologie</kategorie>
+        </taxons>
+    </pcdm:Object>
+    <pcdm:Object xmlns:pcdm="http://pcdm.org/models#"
+        id="216d0b5b-a721-4d60-b28b-38c9b16376a4">
+        <pcdm:AdministrativeSet id="part0">
+            <kerndaten_id>28</kerndaten_id>
+            <uid>27</uid>
+            <pid>1</pid>
+            <tstamp>1441629594</tstamp>
+            <crdate>1441629594</crdate>
+            <cruser_id>5</cruser_id>
+            <a0_Zusammenfassende_Bezeichnung>Mensch (Georgierin) [Schädel]</a0_Zusammenfassende_Bezeichnung>
+            <a1_Zuordnung>Anatomie, Anthropologie</a1_Zuordnung>
+            <a2_Sammlungs-Akronym>AIG</a2_Sammlungs-Akronym>
+            <a3_Heutige_Inventar-Nummer>546</a3_Heutige_Inventar-Nummer>
+            <a5_Sekundär-Nummer>42; 1; 16; 119; 243</a5_Sekundär-Nummer>
+            <a6_Serie>1</a6_Serie>
+            <a7a_Großgruppe_Fachtermini>Mammalia: Hominidae: Homo</a7a_Großgruppe_Fachtermini>
+            <a7b_Großgruppe_Allgemein>Säugetiere: Menschenaffen: Menschen</a7b_Großgruppe_Allgemein>
+            <a8_Bezeichnung_Original>Georgianerin; Feminae Georgianae</a8_Bezeichnung_Original>
+            <a9a_Bezeichnung_Neue_Fachtermini>&lt;i&gt;Homo sapiens&lt;/i&gt;</a9a_Bezeichnung_Neue_Fachtermini>
+            <a9b_Bezeichnung_Neue_Allgemein>Mensch</a9b_Bezeichnung_Neue_Allgemein>
+            <a12a_Datierung_von>rezent</a12a_Datierung_von>
+            <a12aa_Datierung_bis>rezent</a12aa_Datierung_bis>
+            <a13a_Fundort>Moskau, Moskva autonomous city - Rossiya republic - Rossiya - Asia - World</a13a_Fundort>
+            <a13b_Fundort-Koordinaten>55° 45' 00" N, 037° 42' 00" E</a13b_Fundort-Koordinaten>
+            <a13c_Fundort_Getty-ID>tgn:701297</a13c_Fundort_Getty-ID>
+            <a15a_Erhalten_von>Hiltebrandt, Johann Konrad (1747-1831)</a15a_Erhalten_von>
+            <a15b_Datum_Sammlungseingang_von>1793-05-29</a15b_Datum_Sammlungseingang_von>
+            <a15ba_Datum_Sammlungseingang_bis>1793-05-29</a15ba_Datum_Sammlungseingang_bis>
+            <a16a_Erwerbsform>Geschenk</a16a_Erwerbsform>
+            <a16b_Besitz_seit>1840 (aus Privatsammlung Blumenbachs)</a16b_Besitz_seit>
+            <a17_Bemerkungen_Erwerbsform>don. über G. T. von Asch</a17_Bemerkungen_Erwerbsform>
+            <a18>Schultz (2011): 52; Schultz (2012): 52</a18>
+            <a19>00004: XXIII; 206; 325; 00094: 4f; 00008: 2; 148; 290; 00147 (6): (ohne Seitenzählung, Text zu Taf. 51); Spengel (1877): 46f</a19>
+            <a20>00004: Taf. 1, Fig. 2; Taf. 2, Fig. 3; 00094: Taf. 21; 00008: Taf. 1, Fig. 2; Taf. 2, Fig. 3; 00147: Taf. 51; Schultz (2011): Fig. 1; Schultz (2012): Fig. 1</a20>
+            <a21>nein</a21>
+            <a22>Spengel, J.W. (1877): Die von Blumenbach gegründete anthropologische Sammlung der Universität Göttingen. Aufgenommen im Jahre 1874. [In:] Schaafhausen, H. (Hrsg.): Die Anthropologischen Sammlungen Deutschlands. Ein Verzeichnis des in Deutschland vorhandenen anthropologischen Materials. Nach dem Beschluss der Deutschen Anthropologischen Gesellschaft zusammengestellt unter der Leitung des Vorsitzenden der zu diesem Zwecke ernannten Commission, H. Schaaffhausen. II. Göttingen. VI + 91 S. Braunschweig (Vieweg und Sohn).; Schultz, M. (2011):Talking Heads. Unearthing the Stories Behind the Skulls in Blumenbach's Collection. - Georgia Augusta. Wissenschaftsmagazin der Georg-August-Universität Göttingen 8: 52-56 [englischsprachige Sonderausgabe].; Schultz, M. (2012): "Sprechende Schädel". Fakten und Geschichten über historische Schädel - Die Schädelsammlung des Johann Friedrich Blumenbach. - Georgia Augusta. Wissenschaftsmagazin der Georg-August-Universität Göttingen 8: 52-56.</a22>
+            <a24a_Standort_externen>Georg-August-Universität Göttingen, Medizinische Fakultät, Zentrum Anatomie (Blumenbachsche Schädelsammlung)</a24a_Standort_externen>
+            <a26_Objekt-Typ>Naturalia</a26_Objekt-Typ>
+            <a28_Rechtehinweise>die Rechte für die digitalen 2D-Einzelaufnahmen liegen bei der Akademie der Wissenschaften zu Göttingen</a28_Rechtehinweise>
+            <c1_Anzahl_Original-Etiketten>0</c1_Anzahl_Original-Etiketten>
+            <c2_Anzahl_Sekundär-Etiketten>1</c2_Anzahl_Sekundär-Etiketten>
+            <f1>"Caucasisch" (Georgierin, Blumenbach Sammlung Nr. 546 (119); übermittelt durch Baron v. Asch)/Ad 119. Bl. Von Prof. Hildebrandt durch Baron von Asch. "Der bildschön proportionierte Schädel einer im Türkenkriege gefangenen Georgianerin, die zu Moskau morte subitanea gestorben und deshalb auf das dasige anatomische Theater zur Legalobduction gesandt worden."</f1>
+            <f2a_Bearbeiter>L. Numberger-Thuy, M. Schultz, A. Gehler, N. Schäfer</f2a_Bearbeiter>
+            <f2b_Datum_Erstbearbeitung>2011-05-25</f2b_Datum_Erstbearbeitung>
+            <f3a>N. Schäfer</f3a>
+            <f3b>2015-09-07</f3b>
+            
+            <pcdm:Object id="54393562-f4e9-440c-b9aa-bae7b73643b1">
+                <pcdm:File id="107">fuploadtxbolonlineKerndaten280AIG546OSmitUK1130606729168.13.jpg</pcdm:File>
+            </pcdm:Object>
+        </pcdm:AdministrativeSet>
+        <pcdm:AdministrativeSet id="part1">
+            <id>29</id>
+            <kerndaten_id>28</kerndaten_id>
+            <block_nr>0</block_nr>
+            <a4_Original-Nummer>nicht vorhanden</a4_Original-Nummer>
+        </pcdm:AdministrativeSet>
+        <pcdm:AdministrativeSet id="part2">
+            
+            <pcdm:Object id="58b19a4f-f16c-424c-918c-c2424dee560b">
+                <pcdm:File id="239">fuploadtxbolonlinePartII352800AIG546OSmitUK1130805942053.71.jpg</pcdm:File>
+                <block_nr>0</block_nr>
+                <pcdm:File id="240">fuploadtxbolonlinePartII352810AIG546OSmitUK11130805942053.93.jpg</pcdm:File>
+                <block_nr>0</block_nr>
+                <pcdm:File id="241">fuploadtxbolonlinePartII352820AIG546OSmitUK5130805942054.15.jpg</pcdm:File>
+                <block_nr>0</block_nr>
+                <pcdm:File id="242">fuploadtxbolonlinePartII352830AIG546OSmitUK17130805942054.38.jpg</pcdm:File>
+                <block_nr>0</block_nr>
+                <pcdm:File id="243">fuploadtxbolonlinePartII352840AIG546OSmitUK81130805942054.61.jpg</pcdm:File>
+                <block_nr>0</block_nr>
+                <pcdm:File id="244">fuploadtxbolonlinePartII352800AIG546OSmitUK130805944100.16.swf</pcdm:File>
+                <block_nr>0</block_nr>
+                <pcdm:File id="615">fuploadtxbolonlinePartII352800AIG546OSmitUK131910631218.43.gif</pcdm:File>
+                <block_nr>0</block_nr>
+                <pcdm:File id="1106">fuploadtxbolonlinePartII352800AIG546OSmitUK3133421446900.6.jpg</pcdm:File>
+                <block_nr>0</block_nr>
+                <pcdm:File id="1107">fuploadtxbolonlinePartII352810AIG546OSmitUK19133421446932.27.jpg</pcdm:File>
+                <block_nr>0</block_nr>
+                <pcdm:File id="1108">fuploadtxbolonlinePartII352820AIG546USmitUK81133421446963.28.jpg</pcdm:File>
+                <block_nr>0</block_nr>
+            </pcdm:Object>
+            <id>35</id>
+            <kerndaten_id>28</kerndaten_id>
+            <block_nr>0</block_nr>
+            <b1_Objektes_Art>Schädel mit Unterkiefer</b1_Objektes_Art>
+            <b4a>weiblich</b4a>
+            <b4aa>25-29 (35)</b4aa>
+            <b4c>Caucasisch</b4c>
+            <b4d>Kaukasus, Georgien</b4d>
+            <b6>Schädelkalotte aufgesägt und wieder angeklebt</b6>
+            <b8>G=710.9 [g]</b8>
+            <b10a_Objekte_Zustand>gut</b10a_Objekte_Zustand>
+            <b11a>nein</b11a>
+            <b12>546</b12>
+        </pcdm:AdministrativeSet>
+        <pcdm:AdministrativeSet id="part3">
+            <id>43</id>
+            <kerndaten_id>28</kerndaten_id>
+            <block_nr>0</block_nr>
+            <a10_Text_Original-Etikett>nicht vorhanden</a10_Text_Original-Etikett>
+        </pcdm:AdministrativeSet>
+        <pcdm:AdministrativeSet id="part4">
+            <id>34</id>
+            <kerndaten_id>28</kerndaten_id>
+            <block_nr>0</block_nr>
+            <a11>nicht vorhanden</a11>
+        </pcdm:AdministrativeSet>
+        <taxons>
+            <kategorie>Anatomie und Anthropologie</kategorie>
+        </taxons>
+    </pcdm:Object>
+</root>    

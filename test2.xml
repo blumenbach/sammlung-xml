@@ -1,0 +1,176 @@
+﻿<sv:node xmlns:premis="http://www.loc.gov/premis/rdf/v1#" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:ns004="http://www.w3.org/ns/auth/acl#" xmlns:ns003="http://id.loc.gov/vocabulary/relators/" xmlns:ns002="http://purl.org/dc/terms/" 
+    xmlns:ns001="info:fedora/fedora-system:def/model#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:mode="http://www.modeshape.org/1.0" xmlns:ns007="http://pcdm.org/models#" xmlns:ns006="http://scholarsphere.psu.edu/ns#" 
+    xmlns:ns005="info:fedora/fedora-system:def/relations-external#" xmlns:jcr="http://www.jcp.org/jcr/1.0" 
+    xmlns:fedoraconfig="http://fedora.info/definitions/v4/config#" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:image="http://www.modeshape.org/images/1.0" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" 
+    xmlns:blume="http://purl.org/vocab/blumenbach#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:fedora="http://fedora.info/definitions/v4/repository#" xmlns:ebucore="http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#" 
+    xmlns:ldp="http://www.w3.org/ns/ldp#" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dc="http://purl.org/dc/elements/1.1/" sv:name="000001">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>nt:folder</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>fedora:Container</sv:value>
+            <sv:value>fedora:Resource</sv:value>
+        </sv:property>
+        <sv:node sv:name="part0.0">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>nt:folder</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+                <sv:value>fedora:Container</sv:value>
+                <sv:value>fedora:Resource</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:kerndaten_id" sv:type="String">
+                <sv:value>1</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:uid" sv:type="String">
+                <sv:value>20</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:pid" sv:type="String">
+                <sv:value>1</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:tstamp" sv:type="String">
+                <sv:value>1386844920</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:crdate" sv:type="String">
+                <sv:value>1386844920</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:cruser_id" sv:type="String">
+                <sv:value>1</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a0_Zusammenfassende_Bezeichnung" sv:type="String">
+                <sv:value>Dazit-Porphyr “Porfido rosso antico“</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a1_Zuordnung" sv:type="String">
+                <sv:value>Geologie</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a2_Sammlungs-Akronym" sv:type="String">
+                <sv:value>GZG.HST.</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a3_Heutige_Inventar-Nummer" sv:type="String">
+                <sv:value>0.056</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a5_Sekundär-Nummer" sv:type="String">
+                <sv:value>16561</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a6_Serie" sv:type="String">
+                <sv:value>1</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a7a_Großgruppe_Fachtermini" sv:type="String">
+                <sv:value>Magmatite: Vulkanite: Porphyre</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a7b_Großgruppe_Allgemein" sv:type="String">
+                <sv:value>Erstarrungsgesteine: Ergussgesteine: Porphyre</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a8_Bezeichnung_Original" sv:type="String">
+                <sv:value>Porfido rosso antico</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a9a_Bezeichnung_Neue_Fachtermini" sv:type="String">
+                <sv:value>„Porfido rosso antico“, Dazit-Porphyr</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a9c_Synonyma" sv:type="String">
+                <sv:value>Purpurstein, lapis purpureus porphyrites, Porfido rosso egiziano</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a12a_Datierung_von" sv:type="String">
+                <sv:value>Präkambrium</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a12aa_Datierung_bis" sv:type="String">
+                <sv:value>Präkambrium</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a12b_Bemerkungen_zur_Datierung" sv:type="String">
+                <sv:value>es liegt keine konkrete Datierung am Stück vor</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a13a_Fundort" sv:type="String">
+                <sv:value>Ägypten, vermutlich aus einem römischen Steinbruch (Mons Porphyrites) in der Nähe von Hurghada, Djebel Duchan (= „rauchender Berg“)</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a13d" sv:type="String">
+                <sv:value>1095262</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a14a_Sammler" sv:type="String">
+                <sv:value>Niebuhr, Carsten (1733-1815)</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a14aa" sv:type="String">
+                <sv:value>cnp00399159</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a14b" sv:type="String">
+                <sv:value>1761-01-01</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a14ba" sv:type="String">
+                <sv:value>1763-12-31</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a15a_Erhalten_von" sv:type="String">
+                <sv:value>Niebuhr, Carsten (1733-1815)</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a15aa" sv:type="String">
+                <sv:value>cnp00399159</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a15b_Datum_Sammlungseingang_von" sv:type="String">
+                <sv:value>1761-01-01</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a15ba_Datum_Sammlungseingang_bis" sv:type="String">
+                <sv:value>1791-12-31</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a16a_Erwerbsform" sv:type="String">
+                <sv:value>vermutlich Geschenk</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a17_Bemerkungen_Erwerbsform" sv:type="String">
+                <sv:value>Carsten Niebuhr (1733 – 1815), deutscher Mathematiker und Forschungsreisender. 1761 wurde er von König Frederik V. von Dänemark als Kartograf in die sechsköpfige dänische
+                    Arabien-Expedition berufen, die im gleichen Jahr als „Arabische Reise“ mit der Schiffspassage von Kopenhagen nach Alexandria (Ägypten) begann. Diese zweite deutsche
+                    wissenschaftliche Expedition zur Erforschung des Orients und Palästinas startete von Göttingen aus. Die Resultate der Reise wurden von Carsten Niebuhr in den Jahren 1772-1778
+                    veröffentlicht.</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a18" sv:type="String">
+                <sv:value>00025: 562, 620; 00027: 609</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a21" sv:type="String">
+                <sv:value>nein</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a24a_Standort_externen" sv:type="String">
+                <sv:value>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a24b_Standort_internen" sv:type="String">
+                <sv:value>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a26_Objekt-Typ" sv:type="String">
+                <sv:value>Naturalia</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:a28_Rechtehinweise" sv:type="String">
+                <sv:value>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:c1_Anzahl_Original-Etiketten" sv:type="String">
+                <sv:value>1</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:c2_Anzahl_Sekundär-Etiketten" sv:type="String">
+                <sv:value>0</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:f2a_Bearbeiter" sv:type="String">
+                <sv:value>M. Reich, A. Böhme, A. Gehler</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:f2b_Datum_Erstbearbeitung" sv:type="String">
+                <sv:value>2010-05-04</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:f3a" sv:type="String">
+                <sv:value>A. Gehler</sv:value>
+            </sv:property>
+            <sv:property sv:name="blume:f3b" sv:type="String">
+                <sv:value>2013-12-12</sv:value>
+            </sv:property>
+            <sv:node sv:name="0054bed2-f50f-4eaf-8b8b-fe14c7df80b6">
+                <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                    <sv:value>nt:folder</sv:value>
+                </sv:property>
+                <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+                    <sv:value>fedora:Container</sv:value>
+                    <sv:value>fedora:Resource</sv:value>
+                    <sv:value>ns007:Object</sv:value>
+                </sv:property>
+                <sv:property sv:name="ns001:downloadFilename" id="322">
+                    <sv:value>fuploadtxbolonlineKerndaten10GZGHST00562D05131194545986.JPG</sv:value>
+                </sv:property>
+            </sv:node>
+        </sv:node>
+    </sv:node>  
+

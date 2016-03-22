@@ -1,0 +1,351 @@
+﻿<sv:node xmlns:premis="http://www.loc.gov/premis/rdf/v1#" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:ns004="http://www.w3.org/ns/auth/acl#" xmlns:ns003="http://id.loc.gov/vocabulary/relators/" xmlns:ns002="http://purl.org/dc/terms/" 
+    xmlns:ns001="info:fedora/fedora-system:def/model#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:mode="http://www.modeshape.org/1.0" xmlns:ns007="http://pcdm.org/models#" xmlns:ns006="http://scholarsphere.psu.edu/ns#" 
+    xmlns:ns005="info:fedora/fedora-system:def/relations-external#" xmlns:jcr="http://www.jcp.org/jcr/1.0" 
+    xmlns:fedoraconfig="http://fedora.info/definitions/v4/config#" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:image="http://www.modeshape.org/images/1.0" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" 
+    xmlns:samblu="http://purl.org/vocab/blumenbach#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:fedora="http://fedora.info/definitions/v4/repository#" xmlns:ebucore="http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#" 
+    xmlns:ldp="http://www.w3.org/ns/ldp#" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    sv:name="000001">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>nt:folder</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>fedora:Container</sv:value>
+        <sv:value>fedora:Resource</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>eaaa2c8a-538c-45cc-9189-fb8e8618bf81</sv:value>
+    </sv:property>
+    <sv:node id="part0" sv:name="ffc2242e-eaca-405a-b070-56fdbf5ed96b">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>nt:folder</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>fedora:Container</sv:value>
+            <sv:value>fedora:Resource</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:kerndaten_id" sv:type="String">
+            <sv:value>1</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:uid" sv:type="String">
+            <sv:value>20</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:pid" sv:type="String">
+            <sv:value>1</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:tstamp" sv:type="String">
+            <sv:value>1386844920</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:crdate" sv:type="String">
+            <sv:value>1386844920</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:cruser_id" sv:type="String">
+            <sv:value>1</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a0_Zusammenfassende_Bezeichnung" sv:type="String">
+            <sv:value>Dazit-Porphyr “Porfido rosso antico“</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a1_Zuordnung" sv:type="String">
+            <sv:value>Geologie</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a2_Sammlungs-Akronym" sv:type="String">
+            <sv:value>GZG.HST.</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a3_Heutige_Inventar-Nummer" sv:type="String">
+            <sv:value>0.056</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a5_Sekundär-Nummer" sv:type="String">
+            <sv:value>16561</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a6_Serie" sv:type="String">
+            <sv:value>1</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a7a_Großgruppe_Fachtermini" sv:type="String">
+            <sv:value>Magmatite: Vulkanite: Porphyre</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a7b_Großgruppe_Allgemein" sv:type="String">
+            <sv:value>Erstarrungsgesteine: Ergussgesteine: Porphyre</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a8_Bezeichnung_Original" sv:type="String">
+            <sv:value>Porfido rosso antico</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a9a_Bezeichnung_Neue_Fachtermini" sv:type="String">
+            <sv:value>„Porfido rosso antico“, Dazit-Porphyr</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a9c_Synonyma" sv:type="String">
+            <sv:value>Purpurstein, lapis purpureus porphyrites, Porfido rosso egiziano</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a12a_Datierung_von" sv:type="String">
+            <sv:value>Präkambrium</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a12aa_Datierung_bis" sv:type="String">
+            <sv:value>Präkambrium</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a12b_Bemerkungen_zur_Datierung" sv:type="String">
+            <sv:value>es liegt keine konkrete Datierung am Stück vor</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a13a_Fundort" sv:type="String">
+            <sv:value>Ägypten, vermutlich aus einem römischen Steinbruch (Mons Porphyrites) in der Nähe von Hurghada, Djebel Duchan (= „rauchender Berg“)</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a13d" sv:type="String">
+            <sv:value>1095262</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a14a_Sammler" sv:type="String">
+            <sv:value>Niebuhr, Carsten (1733-1815)</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a14aa" sv:type="String">
+            <sv:value>cnp00399159</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a14b" sv:type="String">
+            <sv:value>1761-01-01</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a14ba" sv:type="String">
+            <sv:value>1763-12-31</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a15a_Erhalten_von" sv:type="String">
+            <sv:value>Niebuhr, Carsten (1733-1815)</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a15aa" sv:type="String">
+            <sv:value>cnp00399159</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a15b_Datum_Sammlungseingang_von" sv:type="String">
+            <sv:value>1761-01-01</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a15ba_Datum_Sammlungseingang_bis" sv:type="String">
+            <sv:value>1791-12-31</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a16a_Erwerbsform" sv:type="String">
+            <sv:value>vermutlich Geschenk</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a17_Bemerkungen_Erwerbsform" sv:type="String">
+            <sv:value>Carsten Niebuhr (1733 – 1815), deutscher Mathematiker und Forschungsreisender. 1761 wurde er von König Frederik V. von Dänemark als Kartograf in die sechsköpfige
+            dänische Arabien-Expedition berufen, die im gleichen Jahr als „Arabische Reise“ mit der Schiffspassage von Kopenhagen nach Alexandria (Ägypten) begann. Diese zweite deutsche
+            wissenschaftliche Expedition zur Erforschung des Orients und Palästinas startete von Göttingen aus. Die Resultate der Reise wurden von Carsten Niebuhr in den Jahren 1772-1778
+            veröffentlicht.</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a18" sv:type="String">
+            <sv:value>00025: 562, 620; 00027: 609</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a21" sv:type="String">
+            <sv:value>nein</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a24a_Standort_externen" sv:type="String">
+            <sv:value>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a24b_Standort_internen" sv:type="String">
+            <sv:value>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a26_Objekt-Typ" sv:type="String">
+            <sv:value>Naturalia</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a28_Rechtehinweise" sv:type="String">
+            <sv:value>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:c1_Anzahl_Original-Etiketten" sv:type="String">
+            <sv:value>1</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:c2_Anzahl_Sekundär-Etiketten" sv:type="String">
+            <sv:value>0</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:f2a_Bearbeiter" sv:type="String">
+            <sv:value>M. Reich, A. Böhme, A. Gehler</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:f2b_Datum_Erstbearbeitung" sv:type="String">
+            <sv:value>2010-05-04</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:f3a" sv:type="String">
+            <sv:value>A. Gehler</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:f3b" sv:type="String">
+            <sv:value>2013-12-12</sv:value>
+        </sv:property>
+        <sv:node sv:name="0054bed2-f50f-4eaf-8b8b-fe14c7df80b6">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>nt:folder</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+                <sv:value>fedora:Container</sv:value>
+                <sv:value>fedora:Resource</sv:value>
+                <sv:value>ns007:Object</sv:value>
+            </sv:property>
+            <sv:property id="322" sv:name="samblu:downloadFilename" sv:type="String">
+                <sv:value>fuploadtxbolonlineKerndaten10GZGHST00562D05131194545986.JPG</sv:value>
+            </sv:property>
+        </sv:node>
+    </sv:node>
+    <sv:node id="part1" sv:name="8bc9c8f0-c160-4792-8b5d-86f466d61955">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>nt:folder</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>fedora:Container</sv:value>
+            <sv:value>fedora:Resource</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:id" sv:type="String">
+            <sv:value>1</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:kerndaten_id" sv:type="String">
+            <sv:value>1</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a4_Original-Nummer" sv:type="String">
+            <sv:value>nicht vorhanden</sv:value>
+        </sv:property>
+    </sv:node>
+    <sv:node id="part2" sv:name="9d28e108-c606-485a-8c6a-2c5cc147fa88">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>nt:folder</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>fedora:Container</sv:value>
+            <sv:value>fedora:Resource</sv:value>
+        </sv:property>
+        <sv:node sv:name="90475b5d-68b2-42fe-9c18-feab19079ceb">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>nt:folder</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+                <sv:value>fedora:Container</sv:value>
+                <sv:value>fedora:Resource</sv:value>
+                <sv:value>ns007:Object</sv:value>
+            </sv:property>
+            <sv:property id="350" sv:name="samblu:downloadFilename" sv:type="String">
+                <sv:value>fuploadtxbolonlinePartII1100GZGHST00562D06131194519873.16.JPG</sv:value>
+            </sv:property>
+        </sv:node>
+        <sv:node sv:name="55958ebc-ec26-4dce-a7df-a04d00f643d2">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>nt:folder</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+                <sv:value>fedora:Container</sv:value>
+                <sv:value>fedora:Resource</sv:value>
+                <sv:value>ns007:Object</sv:value>
+            </sv:property>
+            <sv:property id="351" sv:name="samblu:downloadFilename" sv:type="String">
+                <sv:value>fuploadtxbolonlinePartII1110GZGHST00562D07131194519873.39.JPG</sv:value>
+            </sv:property>
+        </sv:node>
+        <sv:node sv:name="79e7c2cf-cdbf-4d09-b2e1-34f66329d7c0">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>nt:folder</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+                <sv:value>fedora:Container</sv:value>
+                <sv:value>fedora:Resource</sv:value>
+                <sv:value>ns007:Object</sv:value>
+            </sv:property>
+            <sv:property id="352" sv:name="samblu:downloadFilename" sv:type="String">
+                <sv:value>fuploadtxbolonlinePartII1100GZGHST00562D04131194548535.62.JPG</sv:value>
+            </sv:property>
+        </sv:node>
+        <sv:property sv:name="samblu:id" sv:type="String">
+            <sv:value>1</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:kerndaten_id" sv:type="String">
+            <sv:value>1</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:b1_Objektes_Art" sv:type="String">
+            <sv:value>Trockenpräparat in Form einer 8-eckigen geschliffene Platte </sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:b2" sv:type="String">
+            <sv:value>dunkelroter Porphyr</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:b5" sv:type="String">
+            <sv:value>seit der Antike wird (roter) Porphyr u. a. als Naturwerkstein für Skulpturen, Bodenplatten etc. sehr geschätzt und verwendet</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:b6" sv:type="String">
+            <sv:value>gesägt, geschliffen, poliert</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:b7a" sv:type="String">
+            <sv:value>L=7,75; B=6,30; H=0,15</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:b8" sv:type="String">
+            <sv:value>26,1</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:b9a" sv:type="String">
+            <sv:value>nicht vorhanden</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:b10a_Objekte_Zustand" sv:type="String">
+            <sv:value>sehr gut</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:b11a" sv:type="String">
+            <sv:value>nein</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:b11b" sv:type="String">
+            <sv:value>unbekannt</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:b12" sv:type="String">
+            <sv:value>0.056</sv:value>
+        </sv:property>
+    </sv:node>
+    <sv:node id="part3" sv:name="43605acc-3580-4435-a5d3-700a3f22db0d">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>nt:folder</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>fedora:Container</sv:value>
+            <sv:value>fedora:Resource</sv:value>
+        </sv:property>
+        <sv:node sv:name="73d928f6-8afb-486d-b0db-6da2c3822627">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>nt:folder</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+                <sv:value>fedora:Container</sv:value>
+                <sv:value>fedora:Resource</sv:value>
+                <sv:value>ns007:Object</sv:value>
+            </sv:property>
+            <sv:property id="66" sv:name="samblu:downloadFilename" sv:type="String">
+                <sv:value>fuploadtxbolonlinePartIII1100GZGHST00562D03131194526146.69.JPG</sv:value>
+            </sv:property>
+        </sv:node>
+        <sv:property sv:name="samblu:id" sv:type="String">
+            <sv:value>1</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:kerndaten_id" sv:type="String">
+            <sv:value>1</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a10_Text_Original-Etikett" sv:type="String">
+            <sv:value>Porfido rosso antico aus Aegypten[sekundär "16561." hinzugefügt]</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:c3_Art_Original-Etikett" sv:type="String">
+            <sv:value>isoliert</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:c4" sv:type="String">
+            <sv:value>L=5,5; B=7,2</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:c5" sv:type="String">
+            <sv:value>Handschrift von Blumenbach (außer später hinzugefügte Sekundärnummer) </sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:c6a" sv:type="String">
+            <sv:value>sehr gut</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:c7a" sv:type="String">
+            <sv:value>nein</sv:value>
+        </sv:property>
+    </sv:node>
+    <sv:node id="part4" sv:name="95867298-024c-4a5e-b9b2-361a8bbc170d">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>nt:folder</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>fedora:Container</sv:value>
+            <sv:value>fedora:Resource</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:id" sv:type="String">
+            <sv:value>1</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:kerndaten_id" sv:type="String">
+            <sv:value>1</sv:value>
+        </sv:property>
+        <sv:property sv:name="samblu:a11" sv:type="String">
+            <sv:value>nicht vorhanden</sv:value>
+        </sv:property>
+    </sv:node>
+    <sv:property sv:name="samblu:kategorie" sv:type="String">
+        <sv:value>Geologie</sv:value>
+    </sv:property>
+</sv:node>

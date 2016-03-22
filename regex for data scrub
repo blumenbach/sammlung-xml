@@ -1,0 +1,5 @@
+regex for sammlung
+Find: \n(\w) Replace: $1
+Find: \n\s(\w) Replace: $1
+Find: \n\s(<.+?>) Replace:$1
+
